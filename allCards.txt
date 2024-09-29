@@ -1,0 +1,880 @@
+[CustomCards]
+[
+    {	
+		"name": "Binding the Vessel",
+		"rarity": "rare",
+		"mana_cost": "{4}{B}{B}",
+		"type": "Enchantment",
+		"subtypes": [
+			"Saga"
+		],
+		"image": "https://i.imgur.com/sVZ05cl.png"
+	},
+
+    {	
+		"name": "Bretta, Distressed Maiden",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{B}",
+		"type": "Legendary Creature",
+		"subtypes": [
+			"Insect"
+		],
+		"image": "https://i.imgur.com/BllmnZ3.jpeg"
+	},
+
+    {	
+		"name": "Brooding Mawlek",
+		"rarity": "rare",
+		"mana_cost": "{4}{B}{B}",
+		"type": "Legendary Creature",
+		"subtypes": [
+			"Horror"
+		],
+		"image": "https://i.imgur.com/Q9bImwH.jpeg"
+	},
+
+    {	
+		"name": "Carver Hatcher",
+		"rarity": "uncommon",
+		"mana_cost": "{5}{B}{B}",
+		"type": "Creature",
+		"subtypes": [
+			"Insect"
+		],
+		"image": "https://i.imgur.com/AQN7Z38.jpeg"
+	},
+    {	
+		"name": "Corpse Creeper",
+		"rarity": "common",
+		"mana_cost": "{1}{B}{B}",
+		"type": "Creature",
+		"subtypes": [
+			"Zombie",
+            "Insect"
+		],
+		"image": "https://i.imgur.com/xEb09ms.jpeg"
+	},
+    {	
+		"name": "Crawlid",
+		"rarity": "common",
+		"mana_cost": "{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Insect"
+		],
+		"image": "https://i.imgur.com/1QawDBZ.jpeg"
+	},
+    {	
+		"name": "Dark Bargin",
+		"rarity": "common",
+		"mana_cost": "{3}{B}",
+		"type": "Instant",
+		"image": "https://i.imgur.com/XCg1GBU.jpeg"
+	},
+    {	
+		"name": "Deephunter",
+		"rarity": "common",
+		"mana_cost": "{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Insect",
+            "Horror"
+		],
+		"image": "https://i.imgur.com/mdej1Y0.jpeg"
+	},
+    {	
+		"name": "Deepling",
+		"rarity": "common",
+		"mana_cost": "{1}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Insect",
+            "Horror"
+		],
+		"image": "https://i.imgur.com/LuBStXd.jpeg"
+	},
+    {	
+		"name": "Dirtcarver",
+		"rarity": "common",
+		"mana_cost": "{1}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Insect",
+		],
+		"image": "https://i.imgur.com/pgY5BBR.jpeg"
+	},
+    {	
+		"name": "Entombed Husk",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Zombie",
+            "Insect"
+		],
+		"image": "https://i.imgur.com/8HFbQmt.jpeg"
+	},
+    {	
+		"name": "Foreboding Torch",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{B}",
+		"type": "Artifact",
+		"image": "https://i.imgur.com/Cxb2YB8.jpeg"
+	},
+    {	
+		"name": "From the Underbrush",
+		"rarity": "common",
+		"mana_cost": "{4}{B}{B}",
+		"type": "Instant",
+		"image": "https://i.imgur.com/yBloDEO.jpeg"
+	},
+    {	
+		"name": "Garpede",
+		"rarity": "common",
+		"mana_cost": "{4}{B}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Insect"
+		],
+		"image": "https://i.imgur.com/kcsaCIo.jpeg"
+	},
+    {	
+		"name": "Glowing Womb",
+		"rarity": "uncommon",
+		"mana_cost": "{B}",
+		"type": "Artifact",
+		"subtypes": [
+            "Equipment"
+		],
+		"image": "https://i.imgur.com/fo8jX3D.jpeg"
+	},
+    {	
+		"name": "Gruz Mother",
+		"rarity": "rare",
+		"mana_cost": "{5}{B}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Insect"
+		],
+		"image": "https://i.imgur.com/2Rm2mda.jpeg"
+	},
+    {	
+		"name": "Gruzzer",
+		"rarity": "common",
+		"mana_cost": "{1}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Insect"
+		],
+		"image": "https://i.imgur.com/ocVy8G0.jpeg"
+	},
+    {	
+		"name": "Herrah, the Beast",
+		"rarity": "mythic",
+		"mana_cost": "{2}{B}{B}",
+		"type": "Legendary Enchantment Creature",
+		"subtypes": [
+            "Dreamer"
+		],
+		"image": "https://i.imgur.com/9x0hzqX.jpeg"
+	},
+    {	
+		"name": "Husk Hornhead",
+		"rarity": "common",
+		"mana_cost": "{1}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Zombie",
+            "Insect"
+		],
+		"image": "https://i.imgur.com/aQv4K9D.jpeg"
+	},
+    {	
+		"name": "Infuse with Void",
+		"rarity": "common",
+		"mana_cost": "{B}",
+		"type": "Instant",
+		"image": "https://i.imgur.com/yCEQVh6.jpeg"
+	},
+    {	
+		"name": "Leaping Husk",
+		"rarity": "common",
+		"mana_cost": "{1}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Zombie",
+            "Insect"
+		],
+		"image": "https://i.imgur.com/3FQivu8.jpeg"
+	},
+    {	
+		"name": "Little Weaver",
+		"rarity": "common",
+		"mana_cost": "{3}{B}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Spider"
+		],
+		"image": "https://i.imgur.com/ElqYIWC.jpeg"
+	},
+    {	
+		"name": "Mantis Traitor",
+		"rarity": "uncommon",
+		"mana_cost": "{3}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Insect",
+            "Warrior"
+		],
+		"image": "https://i.imgur.com/L8uJH0F.jpeg"
+	},
+    {	
+		"name": "Mass Awakening",
+		"rarity": "mythic",
+		"mana_cost": "{1}{B}{B}",
+		"type": "Sorcery",
+		"image": "https://i.imgur.com/N3RlkEs.jpeg"
+	},
+    {	
+		"name": "Mawlurk",
+		"rarity": "common",
+		"mana_cost": "{2}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Horror"
+		],
+		"image": "https://i.imgur.com/hIbp4td.jpeg"
+	},
+    {	
+		"name": "Midwife, Ravenous Trickster",
+		"rarity": "uncommon",
+		"mana_cost": "{4}{B}{B}",
+		"type": "Legendary Creature",
+		"subtypes": [
+            "Insect",
+            "Shapeshifter"
+		],
+		"image": "https://i.imgur.com/mF5eq1H.jpeg"
+	},
+    {	
+		"name": "Nosk",
+		"rarity": "mythic",
+		"mana_cost": "{2}{B}{B}",
+		"type": "Legendary Creature",
+		"subtypes": [
+            "Insect",
+            "Horror"
+		],
+		"image": "https://i.imgur.com/GH2vcxK.jpeg"
+	},
+    {	
+		"name": "Nymm Breaks the Cycle",
+		"rarity": "rare",
+		"mana_cost": "{6}{B}{B}{B}",
+		"type": "Sorcery",
+		"image": "https://i.imgur.com/sqDrSQK.jpeg"
+	},
+    {	
+		"name": "Obble",
+		"rarity": "uncommon",
+		"mana_cost": "{3}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Insect"
+		],
+		"image": "https://i.imgur.com/ycNef6s.jpeg"
+	},
+    {	
+		"name": "Puncturing Assault",
+		"rarity": "common",
+		"mana_cost": "{3}{B}{B}",
+		"type": "Instant",
+		"image": "https://i.imgur.com/TTLQ3vJ.jpeg"
+	},
+    {	
+		"name": "Raking Limbs",
+		"rarity": "common",
+		"mana_cost": "{2}{B}",
+		"type": "Sorcery",
+		"image": "https://i.imgur.com/EvCpXo9.jpeg"
+	},
+    {	
+		"name": "Rite of Chains",
+		"rarity": "common",
+		"mana_cost": "{B}{B}",
+		"type": "Instant",
+		"image": "https://i.imgur.com/OksuYUT.jpeg"
+	},
+    {	
+		"name": "Ruthless Mutilation",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{B}{B}",
+		"type": "Instant",
+		"image": "https://i.imgur.com/Qv8QL3e.jpeg"
+	},
+    {	
+		"name": "Saving Zote From Himself",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{B}{B}",
+		"type": "Enchantment",
+		"subtypes": [
+            "Saga"
+		],
+		"image": "https://i.imgur.com/MZ63kmN.jpeg"
+	},
+    {	
+		"name": "Shade",
+		"rarity": "rare",
+		"mana_cost": "{B}",
+		"type": "Enchantment",
+		"subtypes": [
+            "Aura"
+		],
+		"image": "https://i.imgur.com/MZ63kmN.jpeg"
+	},
+    {	
+		"name": "Sibling",
+		"rarity": "common",
+		"mana_cost": "{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Shade"
+		],
+		"image": "https://i.imgur.com/QKnpAqv.jpeg"
+	},
+    {	
+		"name": "Slobbering Husk",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Zombie",
+            "Insect",
+            "Horror"
+
+		],
+		"image": "https://i.imgur.com/tftDVuh.jpeg"
+	},
+    {	
+		"name": "Stalking Devout",
+		"rarity": "rare",
+		"mana_cost": "{4}{B}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Insect",
+            "Horror"
+		],
+		"image": "https://i.imgur.com/pL4tFvn.jpeg"
+	},
+    {	
+		"name": "The Collector",
+		"rarity": "rare",
+		"mana_cost": "{B}{B}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Shade",
+            "Horror"
+		],
+		"image": "https://i.imgur.com/THB6T77.jpeg"
+	},
+    {	
+		"name": "The Hollow Knight",
+		"rarity": "rare",
+		"mana_cost": "{1}{B}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Shade",
+            "Knight",
+            "Horror"
+		],
+		"image": "https://i.imgur.com/Gcq1bHs.jpeg"
+	},
+    {	
+		"name": "Vengefly King",
+		"rarity": "rare",
+		"mana_cost": "{1}{B}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Insect",
+            "Noble"
+		],
+		"image": "https://i.imgur.com/8hul3ud.jpeg"
+	},
+    {	
+		"name": "Vexing Exhibition",
+		"rarity": "common",
+		"mana_cost": "{2}{B}{B}",
+		"type": "Sorcery",
+		"image": "https://i.imgur.com/UkB6ZfT.jpeg"
+	},
+    {	
+		"name": "Village Rites",
+		"rarity": "common",
+		"mana_cost": "{B}",
+		"type": "Instant",
+		"image": "https://i.imgur.com/ImOSytM.jpeg"
+	},
+    {	
+		"name": "Void Tendrils",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Shade",
+            "Wall"
+		],
+		"image": "https://i.imgur.com/DHJ7T9I.jpeg"
+	},
+    {	
+		"name": "Volatile Gruzzer",
+		"rarity": "common",
+		"mana_cost": "{1}{B}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Insect",
+            "Horror"
+		],
+		"image": "https://i.imgur.com/Daw6cf3.jpeg"
+	},
+    {	
+		"name": "Wandering Husk",
+		"rarity": "common",
+		"mana_cost": "{2}{B}",
+		"type": "Creature",
+		"subtypes": [
+            "Zombie",
+            "Insect"
+		],
+		"image": "https://i.imgur.com/18SKjsm.jpeg"
+	},
+    {	
+		"name": "Accumulated Studies",
+		"rarity": "uncommon",
+		"mana_cost": "{7}{U}{U}",
+		"type": "Instant",
+		"image": "https://i.imgur.com/eXJNSd0.jpeg"
+	},
+    {	
+		"name": "Baldur Shell",
+		"rarity": "common",
+		"mana_cost": "{U}{U}",
+		"type": "Artifact",
+		"subtypes": [
+            "Equipment"
+		],
+		"image": "https://i.imgur.com/18SKjsm.jpeg"
+	},
+    {	
+		"name": "Clutterstitch",
+		"rarity": "common",
+		"mana_cost": "{1}{U}",
+		"type": "Instant",
+		"image": "https://i.imgur.com/3WHBC7Z.jpeg"
+	},
+    {	
+		"name": "Collector's Grasp",
+		"rarity": "rare",
+		"mana_cost": "{1}{U}",
+		"type": "Sorcery",
+		"image": "https://i.imgur.com/FhkBugX.jpeg"
+	},
+    {	
+		"name": "Consign To Prophecy",
+		"rarity": "common",
+		"mana_cost": "{2}{U}",
+		"type": "Instant",
+		"image": "https://i.imgur.com/uuaUfCg.jpeg"
+	},
+    {	
+		"name": "Cornifer, Driven Catographer",
+		"rarity": "rare",
+		"mana_cost": "{U}{U}",
+		"type": "Legendary Creature",
+        "subtypes": [
+            "Insect",
+            "Scout"
+		],
+		"image": "https://i.imgur.com/No3lIHw.jpeg"
+	},
+    {	
+		"name": "Crystal Crawlers",
+		"rarity": "rare",
+		"mana_cost": "{U}",
+		"type": "Artifact Creature",
+        "subtypes": [
+            "Insect"
+		],
+		"image": "https://i.imgur.com/1SDCGj3.jpeg"
+	},
+    {	
+		"name": "Crystal Hunter",
+		"rarity": "common",
+		"mana_cost": "{3}{U}",
+		"type": "Artifact Creature",
+        "subtypes": [
+            "Insect"
+		],
+		"image": "https://i.imgur.com/EK8o1N5.jpeg"
+	},
+    {	
+		"name": "Crystal Stasis",
+		"rarity": "common",
+		"mana_cost": "{1}{U}",
+		"type": "Enchantment",
+        "subtypes": [
+            "Aura"
+		],
+		"image": "https://i.imgur.com/8USVTDd.jpeg"
+	},
+    {	
+		"name": "Crystalized Husk",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{U}{U}",
+		"type": "Artifact Creature",
+        "subtypes": [
+            "Zombie",
+            "Insect"
+		],
+		"image": "https://i.imgur.com/GugflLG.jpeg"
+	},
+    {	
+		"name": "Duranada",
+		"rarity": "common",
+		"mana_cost": "{2}{U}",
+		"type": "Artifact Creature",
+        "subtypes": [
+            "Insect"
+		],
+		"image": "https://i.imgur.com/yOjVGZi.jpeg"
+	},
+    {	
+		"name": "Durandoo",
+		"rarity": "common",
+		"mana_cost": "{4}{U}",
+		"type": "Artifact Creature",
+        "subtypes": [
+            "Insect"
+		],
+		"image": "https://i.imgur.com/z4zEFND.jpeg"
+	},
+    {	
+		"name": "Eerie Discovery",
+		"rarity": "common",
+		"mana_cost": "{1}{U}",
+		"type": "Sorcery",
+		"image": "https://i.imgur.com/33rUGyd.jpeg"
+	},
+    {	
+		"name": "Fluke Outbreak",
+		"rarity": "common",
+		"mana_cost": "{2}{U}",
+		"type": "Sorcery",
+		"image": "https://i.imgur.com/bPRfPdO.jpeg"
+	},
+    {	
+		"name": "Flukefey",
+		"rarity": "common",
+		"mana_cost": "{1}{U}",
+		"type": "Creature",
+        "subtypes":[
+            "Insect",
+            "Horror"
+        ],
+		"image": "https://i.imgur.com/2Zb7f1C.jpeg"
+	},
+    {	
+		"name": "Flukemarm",
+		"rarity": "rare",
+		"mana_cost": "{2}{U}",
+		"type": "Legendary Creature",
+        "subtypes":[
+            "Insect",
+            "Horror"
+        ],
+		"image": "https://i.imgur.com/SkXgWmh.jpeg"
+	},
+    {	
+		"name": "Flukemon",
+		"rarity": "common",
+		"mana_cost": "{4}{U}",
+		"type": "Creature",
+        "subtypes":[
+            "Insect",
+            "Horror"
+        ],
+		"image": "https://i.imgur.com/vykIqV9.jpeg"
+	},
+    {	
+		"name": "Flukemunga",
+		"rarity": "uncommon",
+		"mana_cost": "{4}{U}{U}",
+		"type": "Creature",
+        "subtypes":[
+            "Insect",
+            "Beast"
+        ],
+		"image": "https://i.imgur.com/89KVzXa.jpeg"
+	},
+    {	
+		"name": "Folly",
+		"rarity": "common",
+		"mana_cost": "{3}{U}",
+		"type": "Creature",
+        "subtypes":[
+            "Spirit"
+        ],
+		"image": "https://i.imgur.com/MtzPqOU.jpeg"
+	},
+    {	
+		"name": "Forbidden Revelation",
+		"rarity": "common",
+		"mana_cost": "{2}{U}",
+		"type": "Instant",
+		"image": "https://i.imgur.com/joNgJMf.jpeg"
+	},
+    {	
+		"name": "Glimback",
+		"rarity": "common",
+		"mana_cost": "{2}{U}{U}",
+		"type": "Artifact Creature",
+        "subtypes":[
+            "Insect"
+        ],
+		"image": "https://i.imgur.com/QSCneNn.jpeg"
+	},
+    {	
+		"name": "Gorb, Radiant Mind",
+		"rarity": "uncommon",
+		"mana_cost": "{4}{U}{U}",
+		"type": "Legendary Creature",
+        "subtypes":[
+            "Spirit"
+        ],
+		"image": "https://i.imgur.com/nAIZdro.jpeg"
+	},
+    {	
+		"name": "Husk Miner",
+		"rarity": "common",
+		"mana_cost": "{1}{U}",
+		"type": "Creature",
+        "subtypes":[
+            "Zombie",
+            "Insect"
+        ],
+		"image": "https://i.imgur.com/QrVy1sH.jpeg"
+	},
+    {	
+		"name": "Iselda, Cornifer's Beloved",
+		"rarity": "rare",
+		"mana_cost": "{3}{U}{U}",
+		"type": "Legendary Creature",
+        "subtypes":[
+            "Insect"
+        ],
+		"image": "https://i.imgur.com/BeboQur.jpeg"
+	},
+    {	
+		"name": "Maskfly",
+		"rarity": "uncommon",
+		"mana_cost": "{U}",
+		"type": "Creature",
+        "subtypes":[
+            "Insect"
+        ],
+		"image": "https://i.imgur.com/SZT9bsZ.jpeg"
+	},
+    {	
+		"name": "Menderbug",
+		"rarity": "rare",
+		"mana_cost": "{2}{U}",
+		"type": "Creature",
+        "subtypes":[
+            "Insect",
+            "Artificer"
+        ],
+		"image": "https://i.imgur.com/gmDlPmD.jpeg"
+	},
+    {	
+		"name": "Mistake",
+		"rarity": "common",
+		"mana_cost": "{2}{U}",
+		"type": "Creature",
+        "subtypes":[
+            "Spirit"
+        ],
+		"image": "https://i.imgur.com/TXva0Wb.jpeg"
+	},
+    {	
+		"name": "Monomon, The Teacher",
+		"rarity": "mythic",
+		"mana_cost": "{4}{U}{U}",
+		"type": "Legendary Enchantment Creature",
+        "subtypes":[
+            "Dreamer"
+        ],
+		"image": "https://i.imgur.com/VYiWjYp.jpeg"
+	},
+    {	
+		"name": "Monomon's Mark",
+		"rarity": "rare",
+		"mana_cost": "{U}",
+		"type": "Legendary Enchantment",
+        "subtypes":[
+            "Aura"
+        ],
+		"image": "https://i.imgur.com/OS9TrJP.jpeg"
+	},
+    {	
+		"name": "Mystical Unmaking",
+		"rarity": "common",
+		"mana_cost": "{4}{U}{U}",
+		"type": "Instant",
+		"image": "https://i.imgur.com/bO6yZbk.jpeg"
+	},
+    {	
+		"name": "Piflip",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{U}",
+		"type": "Creature",
+        "subtypes":[
+            "Insect"
+        ],
+		"image": "https://i.imgur.com/fKjpyk8.jpeg"
+	},
+]
+#_________________________________________________________________________
+[Settings]
+{
+	"layouts": {
+		"Rare": {
+			"weight": 5,
+			"slots": {
+  				"Common": 10,
+  				"Uncommon": 3,
+  				"Rare": 1
+			}
+		},
+		"Mythic": {
+			"weight": 1,
+			"slots": {
+  				"Common": 10,
+  				"Uncommon": 3,
+  				"Mythic": 1
+			}
+		}
+    }
+}
+
+#_________________________________________________________________________
+[Common]
+#White
+
+
+#Blue
+Baldur Shell
+Clutterstitch
+Consign To Prophecy
+Crystal Hunter
+Crystal Stasis
+Duranada
+Durandoo
+Eerie Discovery
+Fluke Outbreak
+Flukefey
+Flukemon
+Folly
+Forbidden Revelation
+Glimback
+Husk Miner
+Mistake
+Mystical Unmaking
+
+
+
+#Black
+Dark Bargin
+Corpse Creeper
+Crawlid
+Deephunter
+Deepling
+Dirtcarver
+From the Underbrush
+Garpede
+Husk Hornhead
+Gruzzer
+Infuse with Void
+Leaping Husk
+Little Weaver
+Mawlurk
+Puncturing Assault
+Raking Limbs
+Rite of Chains
+Sibling
+Vexing Exhibition
+Village Rites
+Volatile Gruzzer
+Wandering Husk
+
+#_________________________________________________________________________
+[Uncommon]
+#Blue
+Accumulated Studies
+Crystalized Husk
+Flukemunga
+Gorb, Radiant Mind
+Maskfly
+Piflip
+
+
+
+
+
+
+
+#Black
+Bretta, Distressed Maiden
+Carver Hatcher
+Entombed Husk
+Foreboding Torch
+Glowing Womb
+Mantis Traitor
+Midwife, Ravenous Trickster
+Obble
+Ruthless Mutilation
+Saving Zote From Himself
+Slobbering Husk
+Void Tendrils
+
+#_________________________________________________________________________
+[Rare]
+#Blue
+Collector's Grasp
+Cornifer, Driven Catographer
+Crystal Crawlers
+Flukemarm
+Iselda, Cornifer's Beloved
+Menderbug
+Monomon's Mark
+
+#Black
+1 Gruz Mother
+1 Binding the Vessel
+1 Brooding Mawlek
+1 Nymm Breaks the Cycle
+1 Shade
+1 Stalking Devout
+1 The Collector
+1 The Hollow Knight
+1 Vengefly King
+
+#_________________________________________________________________________
+[Mythic]
+
+#Blue
+Monomon, The Teacher
+
+
+#Black
+1 Herrah, the Beast
+1 Mass Awakening
+1 Nosk
