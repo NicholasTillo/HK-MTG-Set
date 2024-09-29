@@ -741,6 +741,379 @@
         ],
 		"image": "https://i.imgur.com/fKjpyk8.jpeg"
 	},
+    {	
+		"name": "Quirrel, Monomon's Envoy",
+		"rarity": "rare",
+		"mana_cost": "{U}",
+		"type": "Legendary Creature",
+        "subtypes":[
+            "Insect",
+            "Scout"
+        ],
+		"image": "https://i.imgur.com/sp5e9nh.jpeg"
+	},
+    {	
+		"name": "Quirrel Traverses Hallownest",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{U}",
+		"type": "Enchantment",
+        "subtypes":[
+            "Saga"
+        ],
+		"image": "https://i.imgur.com/ls941os.png"
+	},
+    {	
+		"name": "Resonant Monument",
+		"rarity": "uncommon",
+		"mana_cost": "{U}",
+		"type": "Artifact",
+		"image": "https://i.imgur.com/m61KImi.jpeg"
+	},
+    
+    {	
+		"name": "Shape Of Unn",
+		"rarity": "uncommon",
+		"mana_cost": "{U}",
+		"type": "Instant",
+		"image": "https://i.imgur.com/PVxWM6p.jpeg"
+	},
+    {	
+		"name": "Shardmite",
+		"rarity": "common",
+		"mana_cost": "{1}{U}",
+		"type": "Artifact Creature",
+        "subtypes":[
+            "Insect"
+        ],
+		"image": "https://i.imgur.com/0iQb2Bp.jpeg"
+	},
+    {	
+		"name": "Snail Shaman",
+		"rarity": "mythic",
+		"mana_cost": "{1}{U}",
+		"type": "Creature",
+        "subtypes":[
+            "Shaman"
+        ],
+		"image": "https://i.imgur.com/Nb4t7Nt.jpeg"
+	},
+    {	
+		"name": "Soul Twister",
+		"rarity": "common",
+		"mana_cost": "{2}{U}",
+		"type": "Creature",
+        "subtypes":[
+            "Insect",
+            "Wizard"
+        ],
+		"image": "https://i.imgur.com/44ITmpv.jpeg"
+	},
+    {	
+		"name": "Soul Warrior",
+		"rarity": "uncommon",
+		"mana_cost": "{3}{U}",
+		"type": "Creature",
+        "subtypes":[
+            "Insect",
+            "Warrior",
+            "Wizard"
+        ],
+		"image": "https://i.imgur.com/JDPlmN5.jpeg"
+	},
+    {	
+		"name": "Squint",
+		"rarity": "common",
+		"mana_cost": "{3}{U}",
+		"type": "Creature",
+        "subtypes":[
+            "Insect"
+        ],
+		"image": "https://i.imgur.com/d3kQ1K3.jpeg"
+	},
+    {	
+		"name": "The Pale King's Return",
+		"rarity": "rare",
+		"mana_cost": "{3}{U}{U}",
+		"type": "Enchantment",
+        "subtypes":[
+            "Saga"
+        ],
+		"image": "https://i.imgur.com/ktaJj5W.png"
+	},
+    {	
+		"name": "The Soul Master",
+		"rarity": "rare",
+		"mana_cost": "{2}{U}{U}{U}{U}",
+		"type": "Legendary Creature",
+        "subtypes":[
+            "Insect",
+            "Adviser"
+        ],
+		"image": "https://i.imgur.com/bOIs93r.jpeg"
+	},
+    {	
+		"name": "Uoma",
+		"rarity": "common",
+		"mana_cost": "{U}",
+		"type": "Artifact Creature",
+        "subtypes":[
+            "Jellyfish"
+        ],
+		"image": "https://i.imgur.com/ro0fUsG.jpeg"
+	},
+    {	
+		"name": "Void Snare",
+		"rarity": "common",
+		"mana_cost": "{U}",
+		"type": "Sorcery",
+		"image": "https://i.imgur.com/T9lF9U1.jpeg"
+	}
+    {	
+		"name": "Antiquity Restoration",
+		"rarity": "common",
+		"mana_cost": "{3}{R}",
+		"type": "Sorcery",
+		"image": "https://i.imgur.com/1sXJrqs.jpeg"
+	},
+	{	
+		"name": "Armored Squint",
+		"rarity": "uncommon",
+		"mana_cost": "{3}{R}{R}",
+		"type": "Creature",
+        "subtypes":[
+            "Insect"
+        ],
+		"image": "https://i.imgur.com/YeWjK92.jpeg"
+	},
+	{
+    	"name": "Aspid Hunter",
+    	"rarity": "common",
+    	"mana_cost": "{1}{R}",
+    	"type": "Creature",
+    	"subtypes": [
+    	    "Insect"
+    	],
+    	"image": "https://i.imgur.com/TkNUjAq.jpeg"
+	},
+	{
+    	"name": "Aspid Mother",
+    	"rarity": "uncommon",
+    	"mana_cost": "{3}{R}{R}",
+    	"type": "Creature",
+    	"subtypes": [
+    	    "Insect"
+    	],
+    	"image": "https://i.imgur.com/SRcW97y.jpeg"
+	},
+	{
+    	"name": "Baldur",
+    	"rarity": "common",
+    	"mana_cost": "{R}",
+    	"type": "Creature",
+    	"subtypes": [
+    	    "Insect",
+			"Beast"
+    	],
+    	"image": "https://i.imgur.com/MlbHyhM.jpeg"
+	},
+	{
+    	"name": "Bardoon, Witness to Ages",
+    	"rarity": "uncommon",
+    	"mana_cost": "{4}{R}{R}",
+    	"type": "Legendary Creature",
+    	"subtypes": [
+    	    "Elder",
+			"Insect"
+    	],
+    	"image": "https://i.imgur.com/AmQome3.jpeg"
+	},
+	{
+    	"name": "Battle Obble",
+    	"rarity": "common",
+    	"mana_cost": "{2}{R}{R}",
+    	"type": "Creature",
+    	"subtypes": [
+			"Insect"
+    	],
+    	"image": "https://i.imgur.com/YSWWNv4.jpeg"
+	},
+	{
+    	"name": "Biting Shriek",
+    	"rarity": "common",
+    	"mana_cost": "{R}",
+    	"type": "Instant",
+    	"image": "https://i.imgur.com/0oq3wUq.jpeg"
+	},
+	{
+    	"name": "Braving the Colosseum",
+    	"rarity": "rare",
+    	"mana_cost": "{2}{R}{R}",
+    	"type": "Enchantment",
+		"subtypes": [
+			"Saga"
+    	],
+    	"image": "https://i.imgur.com/M0LvH5Q.png"
+	},
+	{
+    	"name": "Brumm, Evermore Shaman",
+    	"rarity": "rare",
+    	"mana_cost": "{2}{R}{R}",
+    	"type": "Legendary Creature",
+		"subtypes": [
+			"Bard",
+			"Shaman"
+    	],
+    	"image": "https://i.imgur.com/4dFLOnx.jpeg"
+	},
+	{
+    	"name": "Burning Legacy",
+    	"rarity": "uncommon",
+    	"mana_cost": "{2}{R}",
+    	"type": "Enchantment",
+    	"image": "https://i.imgur.com/m0N5dN7.jpeg"
+	},
+	{
+    	"name": "Clustervoltage",
+    	"rarity": "common",
+    	"mana_cost": "{R}",
+    	"type": "Instant",
+    	"image": "https://i.imgur.com/zJLoui7.jpeg"
+	},
+	{
+    	"name": "Divine, Irksome Specialist",
+    	"rarity": "rare",
+    	"mana_cost": "{1}{R}",
+    	"type": "Legendary Creature",
+		"subtypes": [
+			"Insect",
+			"Shaman"
+    	],
+    	"image": "https://i.imgur.com/fpUSIug.jpeg"
+	},
+	{
+    	"name": "Dryya, Fierce Preserver",
+    	"rarity": "mythic",
+    	"mana_cost": "{2}{R}{R}",
+    	"type": "Legendary Creature",
+		"subtypes": [
+			"Insect",
+			"Knight"
+    	],
+    	"image": "https://i.imgur.com/zo6Ai6g.jpeg"
+	},
+	{
+    	"name": "Elder Baldur",
+    	"rarity": "uncommon",
+    	"mana_cost": "{3}{R}",
+    	"type": "Creature",
+		"subtypes": [
+			"Insect",
+			"Beast"
+    	],
+    	"image": "https://i.imgur.com/8OS9HVw.jpeg"
+	},
+	{
+    	"name": "Fungified Husk",
+    	"rarity": "uncommon",
+    	"mana_cost": "{2}{R}",
+    	"type": "Creature",
+		"subtypes": [
+			"Fungus",
+			"Insect"
+    	],
+    	"image": "https://i.imgur.com/I80MPil.jpeg"
+	},
+	{
+    	"name": "Furious Vengefly",
+    	"rarity": "uncommon",
+    	"mana_cost": "{2}{R}",
+    	"type": "Creature",
+		"subtypes": [
+			"Insect",
+			"Berserker"
+    	],
+    	"image": "https://i.imgur.com/rkIv8Ns.jpeg"
+	},
+	{
+    	"name": "Fury of the Fallen",
+    	"rarity": "rare",
+    	"mana_cost": "{R}",
+    	"type": "Artifact",
+		"subtypes": [
+			"Equipment"
+    	],
+    	"image": "https://i.imgur.com/AryuB34.jpeg"
+	},
+	{
+    	"name": "Grimmchild",
+    	"rarity": "common",
+    	"mana_cost": "{1}{R}{R}",
+    	"type": "Artifact",
+		"subtypes": [
+			"Equipment"
+    	],
+    	"image": "https://i.imgur.com/pqwGepO.jpeg"
+	},
+	{
+    	"name": "Grimmkin Master",
+    	"rarity": "uncommon",
+    	"mana_cost": "{3}{R}",
+    	"type": "Creature",
+		"subtypes": [
+			"Spirit",
+			"Shaman"
+    	],
+    	"image": "https://i.imgur.com/RaudflF.jpeg"
+	},
+	{
+    	"name": "Grimmkin Novice",
+    	"rarity": "common",
+    	"mana_cost": "{R}",
+    	"type": "Creature",
+		"subtypes": [
+			"Spirit",
+			"Shaman"
+    	],
+    	"image": "https://i.imgur.com/iyG1O0T.jpeg"
+	},
+	{
+    	"name": "Grimmkin Ritual",
+    	"rarity": "uncommon",
+    	"mana_cost": "{1}{R}",
+    	"type": "Enchantment",
+		"subtypes": [
+			"Saga"
+    	],
+    	"image": "https://i.imgur.com/cxCn5DU.jpeg"
+	},
+	{
+    	"name": "Hallowed Pyre",
+    	"rarity": "common",
+    	"mana_cost": "{1}{R}",
+    	"type": "Instant",
+    	"image": "https://i.imgur.com/eVDsdev.jpeg"
+	},
+	{
+    	"name": "Grimmkin Ritual",
+    	"rarity": "uncommon",
+    	"mana_cost": "{1}{R}",
+    	"type": "Enchantment",
+		"subtypes": [
+			"Saga"
+    	],
+    	"image": "https://i.imgur.com/cxCn5DU.jpeg"
+	},
+	{
+    	"name": "Heavy Fool",
+    	"rarity": "uncommon",
+    	"mana_cost": "{4}{R}{R}",
+    	"type": "Creature",
+		"subtypes": [
+			"Insect",
+			Berserker
+    	],
+    	"image": "https://i.imgur.com/4azjBm1.jpeg"
+	},
 ]
 #_________________________________________________________________________
 [Settings]
@@ -788,8 +1161,10 @@ Glimback
 Husk Miner
 Mistake
 Mystical Unmaking
-
-
+Soul Twister
+Squint
+Uoma
+Void Snare
 
 #Black
 Dark Bargin
@@ -815,6 +1190,17 @@ Village Rites
 Volatile Gruzzer
 Wandering Husk
 
+#Red
+Antiquity Restoration
+Aspid Hunter
+Baldur
+Battle Obble
+Biting Shriek
+Clustervoltage
+Grimmchild
+Grimmkin Novice
+Hallowed Pyre
+
 #_________________________________________________________________________
 [Uncommon]
 #Blue
@@ -824,12 +1210,11 @@ Flukemunga
 Gorb, Radiant Mind
 Maskfly
 Piflip
-
-
-
-
-
-
+Quirrel Traverses Hallownest
+Resonant Monument
+Shape Of Unn
+Shardmite
+Soul Warrior
 
 #Black
 Bretta, Distressed Maiden
@@ -845,6 +1230,19 @@ Saving Zote From Himself
 Slobbering Husk
 Void Tendrils
 
+
+#Red
+Armored Squint
+Aspid Mother
+Bardoon, Witness to Ages
+Burning Legacy
+Elder Baldur
+Fungified Husk
+Furious Vengefly
+Grimmkin Master
+Grimmkin Ritual
+Heavy Fool
+
 #_________________________________________________________________________
 [Rare]
 #Blue
@@ -855,6 +1253,9 @@ Flukemarm
 Iselda, Cornifer's Beloved
 Menderbug
 Monomon's Mark
+Quirrel, Monomon's Envoy
+The Pale King's Return
+The Soul Master
 
 #Black
 1 Gruz Mother
@@ -867,14 +1268,25 @@ Monomon's Mark
 1 The Hollow Knight
 1 Vengefly King
 
+
+#Red
+Braving the Colosseum
+Brumm, Evermore Shaman
+Divine, Irksome Specialist
+Fury of the Fallen
+
 #_________________________________________________________________________
 [Mythic]
 
 #Blue
 Monomon, The Teacher
-
+Snail Shaman
 
 #Black
 1 Herrah, the Beast
 1 Mass Awakening
 1 Nosk
+
+
+#Red
+Dryya, Fierce Preserver
