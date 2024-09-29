@@ -2200,6 +2200,559 @@
 		],
     	"image": "https://i.imgur.com/F4fnWeG.jpeg"
 	},
+	{
+    	"name": "Channeled Nail",
+    	"rarity": "uncommon",
+    	"mana_cost":"{2}",
+    	"type": "Artifact",
+		"subtypes" : [
+			"Equipment"
+		],
+    	"image": "https://i.imgur.com/la7um4b.jpeg"
+	},
+	{
+    	"name": "Coiled Nail",
+    	"rarity": "common",
+    	"mana_cost":"{4}",
+    	"type": "Artifact",
+		"subtypes" : [
+			"Equipment"
+		],
+    	"image": "https://i.imgur.com/GzyMW3h.jpeg"
+	},
+	{
+    	"name": "Crystal Hierolith",
+    	"rarity": "common",
+    	"mana_cost":"{3}",
+    	"type": "Artifact",
+		"subtypes" : [
+			"Clue"
+		],
+    	"image": "https://i.imgur.com/XnXiN6I.jpeg"
+	},
+	{
+    	"name": "Dashmaster",
+    	"rarity": "common",
+    	"mana_cost":"{2}",
+    	"type": "Artifact",
+		"subtypes" : [
+			"Clue"
+		],
+    	"image": "https://i.imgur.com/50B8GyS.jpeg"
+	},
+	{
+    	"name": "Dream Nail",
+    	"rarity": "rare",
+    	"mana_cost":"{1}",
+    	"type": "Legendary Artifact",
+		"subtypes" : [
+			"Equipment"
+		],
+    	"image": "https://i.imgur.com/8FyR44a.jpeg"
+	},
+	{
+    	"name": "Gemstone Pickaxe",
+    	"rarity": "common",
+    	"mana_cost":"{1}",
+    	"type": "Artifact",
+		"subtypes" : [
+			"Equipment"
+		],
+    	"image": "https://i.imgur.com/i3BELWT.jpeg"
+	},
+	{
+    	"name": "Greatnail",
+    	"rarity": "uncommon",
+    	"mana_cost":"{3}",
+    	"type": "Artifact",
+		"subtypes" : [
+			"Equipment"
+		],
+    	"image": "https://i.imgur.com/JXydnEe.jpeg"
+	},
+	{
+    	"name": "Grub Jar",
+    	"rarity": "common",
+    	"mana_cost":"{1}",
+    	"type": "Artifact",
+    	"image": "https://i.imgur.com/EVBElkl.jpeg"
+	},
+	{
+    	"name": "Jinn, Of Steel Soul",
+    	"rarity": "uncommon",
+    	"mana_cost":"{2}",
+    	"type": "Legendary Artifact Creature",
+		"subtypes" : [
+			"Construct"
+		],
+    	"image": "https://i.imgur.com/epCGmon.jpeg"
+	},
+	{
+    	"name": "Mace Bug",
+    	"rarity": "uncommon",
+    	"mana_cost":"{2}",
+    	"type": "Artifact Creature",
+		"subtypes" : [
+			"Equipment",
+			"Insect"
+		],
+    	"image": "https://i.imgur.com/9aRAATL.jpeg"
+	},
+	{
+    	"name": "Map Emporium",
+    	"rarity": "common",
+    	"mana_cost":"",
+    	"type": "Land",
+    	"image": "https://i.imgur.com/pr2gDwX.jpeg"
+	},
+	{
+    	"name": "Old Nail",
+    	"rarity": "common",
+    	"mana_cost":"{1}",
+    	"type": "Artifact",
+		"subtypes" : [
+			"Equipment"
+		],
+    	"image": "https://i.imgur.com/4Zk0U7f.jpeg"
+	},
+	{
+    	"name": "Ore of Geo",
+    	"rarity": "common",
+    	"mana_cost":"{3}",
+    	"type": "Artifact",
+    	"image": "https://i.imgur.com/Us3hREL.jpeg"
+	},
+	{
+    	"name": "Pure Nail",
+    	"rarity": "mythic",
+    	"mana_cost":"{2}",
+    	"type": "Artifact",
+		"subtypes" : [
+			"Equipment"
+		],
+    	"image": "https://i.imgur.com/kM3ZzHw.jpeg"
+	},
+	{
+    	"name": "Soul Catcher",
+    	"rarity": "common",
+    	"mana_cost":"{3}",
+    	"type": "Artifact",
+		"subtypes" : [
+			"Equipment"
+		],
+    	"image": "https://i.imgur.com/u4o4KvH.jpeg"
+	},
+	{
+    	"name": "Soul Totem",
+    	"rarity": "common",
+    	"mana_cost":"{1}",
+    	"type": "Artifact",
+    	"image": "https://i.imgur.com/KK8oI9U.jpeg"
+	},
+	{
+    	"name": "Watcher's Spire",
+    	"rarity": "common",
+    	"mana_cost":"{2}",
+    	"type": "Artifact",
+    	"image": "https://i.imgur.com/R7HGgRN.jpeg"
+	},
+	{
+    	"name": "Wayward Compass",
+    	"rarity": "common",
+    	"mana_cost":"{1}",
+    	"type": "Artifact",
+		"subtypes" : [
+			"Equipment"
+		],
+    	"image": "https://i.imgur.com/SeDv22F.jpeg"
+	},
+	{
+    	"name": "Ze'mer, Faded Mourner",
+    	"rarity": "rare",
+    	"mana_cost":"{5}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Insect"
+		],
+    	"image": "https://i.imgur.com/PS60gXf.jpeg"
+	},
+	{
+    	"name": "Brothers Oro and Mato",
+    	"rarity": "rare",
+    	"mana_cost":"{2}{R}{W}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Insect",
+			"Warrior"
+		],
+    	"image": "https://i.imgur.com/7LPLTat.jpeg"
+	},
+	{
+    	"name": "Chared Lumaflies",
+    	"rarity": "uncommon",
+    	"mana_cost":"{2}{U}{R}",
+    	"type": "Artifact Creature",
+		"subtypes" : [
+			"Elemental",
+			"Insect"
+		],
+    	"image": "https://i.imgur.com/NVgJ8Hj.jpeg"
+	},
+
+
+	{
+    	"name": "Crystal Procession",
+    	"rarity": "uncommon",
+    	"mana_cost":"{1}{W}{U}",
+    	"type": "Enchantment",
+    	"image": "https://i.imgur.com/zUDo2hv.jpeg"
+	},
+	{
+    	"name": "Death Loodle",
+    	"rarity": "uncommon",
+    	"mana_cost":"{B}{G}",
+    	"type": "Creature",
+		"subtypes" : [
+			"Insect"
+		],
+    	"image": "https://i.imgur.com/gPJsPaO.jpeg"
+	},
+		{
+    	"name": "Duelist's Sorrow",
+    	"rarity": "uncommon",
+    	"mana_cost":"{W}{B}",
+    	"type": "Enchantment",
+    	"image": "https://i.imgur.com/zSWmBJq.jpeg"
+	},
+	{
+    	"name": "Fluke Hermit, The Observer",
+    	"rarity": "uncommon",
+    	"mana_cost":"{1}{U}{G}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Insect",
+			"Scout"
+		],
+    	"image": "https://i.imgur.com/5eVoHOW.jpeg"
+	},
+	{
+    	"name": "Fungal Eminence",
+    	"rarity": "rare",
+    	"mana_cost":"{3}{R}{G}",
+    	"type": "Enchantment",
+    	"image": "https://i.imgur.com/MpVy7f2.jpeg"
+	},
+	{
+    	"name": "God Tamer, Coliseum Dignitary",
+    	"rarity": "rare",
+    	"mana_cost":"{5}{W}{R}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Insect",
+			"Knight"
+		],
+    	"image": "https://i.imgur.com/KkxWDch.jpeg"
+	},
+	{
+    	"name": "Great Husk Sentry",
+    	"rarity": "uncommon",
+    	"mana_cost":"{5}{W}{U}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Zombie",
+			"Insect",
+			"Knight"
+		],
+    	"image": "https://i.imgur.com/6rn6MmF.jpeg"
+	},
+	{
+    	"name": "Grimmkin Nightmare",
+    	"rarity": "uncommon",
+    	"mana_cost":"{1}{B}{R}",
+    	"type": "Creature",
+		"subtypes" : [
+			"Spirit",
+			"Shaman"
+		],
+    	"image": "https://i.imgur.com/GTPrauI.jpeg"
+	},
+	{
+    	"name": "Hallownest's Nailsmith",
+    	"rarity": "uncommon",
+    	"mana_cost":"{W}{R}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Insect",
+			"Artificer"
+		],
+    	"image": "https://i.imgur.com/Au5t17Y.jpeg"
+	},
+	{
+    	"name": "Hive Guardian",
+    	"rarity": "uncommon",
+    	"mana_cost":"{3}{R}{G}",
+    	"type": "Creature",
+		"subtypes" : [
+			"Insect",
+			"Berserker"
+		],
+    	"image": "https://i.imgur.com/UzrIEBx.jpeg"
+	},
+	{
+    	"name": "Hiveling",
+    	"rarity": "uncommon",
+    	"mana_cost":"{1}{G/W}",
+    	"type": "Creature",
+		"subtypes" : [
+			"Insect"
+		],
+    	"image": "https://i.imgur.com/Mje3vEi.jpeg"
+	},
+	{
+    	"name": "Lemm, Relic Connoisseur",
+    	"rarity": "rare",
+    	"mana_cost":"{2}{U}{R}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Insect",
+			"Artificer"
+		],
+    	"image": "https://i.imgur.com/qlI87l4.jpeg"
+	},
+	{
+    	"name": "Lurien, The Watcher",
+    	"rarity": "mythic",
+    	"mana_cost":"{1}{U}{B}",
+    	"type": "Legendary Enchantment Creature",
+		"subtypes" : [
+			"Dreamer"
+		],
+    	"image": "https://i.imgur.com/mrW82Gt.jpeg"
+	},
+	{
+    	"name": "Mantis Petra",
+    	"rarity": "uncommon",
+    	"mana_cost":"{1}{U}{G}",
+    	"type": "Creature",
+		"subtypes" : [
+			"Insect"
+		],
+    	"image": "https://i.imgur.com/9e2YqNI.jpeg"
+	},
+	{
+    	"name": "Marmu, Eager Companion",
+    	"rarity": "uncommon",
+    	"mana_cost":"{1}{B}{G}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Insect",
+			"Spirit"
+		],
+    	"image": "https://i.imgur.com/9e2YqNI.jpeg"
+	},
+	{
+    	"name": "No Eyes",
+    	"rarity": "uncommon",
+    	"mana_cost":"{2}{U}{B}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Insect",
+			"Horror",
+			"Spirit"
+		],
+    	"image": "https://i.imgur.com/rkdQ1Fm.jpeg"
+	},
+	{
+    	"name": "Primal Aspid",
+    	"rarity": "rare",
+    	"mana_cost":"{1}{W}{R}",
+    	"type": "Creature",
+		"subtypes" : [
+			"Insect",
+		],
+    	"image": "https://i.imgur.com/GfKHHY9.jpeg"
+	},
+	{
+    	"name": "Pure Vessel",
+    	"rarity": "rare",
+    	"mana_cost":"{3}{W}{B}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Shade",
+			"Knight"
+		],
+    	"image": "https://i.imgur.com/KiQ4nzr.jpeg"
+	},
+	{
+    	"name": "Scavage the Topsoil",
+    	"rarity": "rare",
+    	"mana_cost":"{B}{G}",
+    	"type": "Sorcery",
+    	"image": "https://i.imgur.com/s9qGo8g.jpeg"
+	},
+	{
+    	"name": "Showtime Crescendo",
+    	"rarity": "rare",
+    	"mana_cost":"{B}{R}",
+    	"type": "Enchantment",
+    	"image": "https://i.imgur.com/Tr0w0hi.jpeg"
+	},
+	{
+    	"name": "Spectacular Stash",
+    	"rarity": "uncommon",
+    	"mana_cost":"{1}{B}{R}",
+    	"type": "Enchantment",
+    	"image": "https://i.imgur.com/K5xkS3O.jpeg"
+	},
+	{
+    	"name": "Sporg",
+    	"rarity": "uncommon",
+    	"mana_cost":"{2}{R}{G}",
+    	"type": "Creature",
+		"subtypes" : [
+			"Fungus"
+		],
+    	"image": "https://i.imgur.com/X2w3STT.jpeg"
+	},
+	{
+    	"name": "The Crystal Guardian",
+    	"rarity": "uncommon",
+    	"mana_cost":"{1}{U}{R}",
+    	"type": "Legendary Artifact Creature",
+		"subtypes" : [
+			"Insect"
+		],
+    	"image": "https://i.imgur.com/Zlb6XqW.jpeg"
+	},
+	{
+    	"name": "The Failed Champion",
+    	"rarity": "rare",
+    	"mana_cost":"{8}{W}{B}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Insect",
+			"Knight"
+		],
+    	"image": "https://i.imgur.com/b9HhBhp.jpeg"
+	},
+	{
+    	"name": "The Hive Knight",
+    	"rarity": "uncommon",
+    	"mana_cost":"{2}{W}{G}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Insect",
+			"Knight"
+		],
+    	"image": "https://i.imgur.com/VwQCAi8.jpeg"
+	},
+	{
+    	"name": "The Pale King",
+    	"rarity": "mythic",
+    	"mana_cost":"{1}{W}{U}{B}",
+    	"type": "Legendary Planeswalker",
+		"subtypes" : [
+			"Pale",
+			"King"
+		],
+    	"image": "https://i.imgur.com/2CYU6na.jpeg"
+	},
+	{
+    	"name": "The Vessel, Hallownest's Savior",
+    	"rarity": "mythic",
+    	"mana_cost":"{W/B}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Shade",
+			"Knight"
+		],
+    	"image": "https://i.imgur.com/bEkDDFJ.jpeg"
+	},
+	{
+    	"name": "The Vessel's Lost Kin",
+    	"rarity": "uncommon",
+    	"mana_cost":"{3}{W}{B}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Shade",
+			"Spirit"
+		],
+    	"image": "https://i.imgur.com/ij9knH2.jpeg"
+	},
+	{
+    	"name": "The White Lady",
+    	"rarity": "mythic",
+    	"mana_cost":"{4}{W}{G}",
+    	"type": "Legendary Planeswalker",
+		"subtypes" : [
+			"White",
+			"Lady"
+		],
+    	"image": "https://i.imgur.com/muTPO37.jpeg"
+	},
+	{
+    	"name": "Troupe Master Grimm",
+    	"rarity": "rare",
+    	"mana_cost":"{1}{B}{R}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Insect",
+			"Shaman"
+		],
+    	"image": "https://i.imgur.com/fdQoi4P.jpeg"
+	},
+	{
+    	"name": "Unfettered Flourishing",
+    	"rarity": "uncommon",
+    	"mana_cost":"{2}{U}{G}",
+    	"type": "Enchantment",
+    	"image": "https://i.imgur.com/30IWJVO.jpeg"
+	},
+	{
+    	"name": "Unn, God of Thriving",
+    	"rarity": "mythic",
+    	"mana_cost":"{4}{G}{U}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Slug",
+			"God"
+		],
+    	"image": "https://i.imgur.com/W2vSLRl.jpeg"
+	},
+	{
+    	"name": "Uumuu, Teacher's Guardian",
+    	"rarity": "mythic",
+    	"mana_cost":"{2}{U}{R}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Jellyfish"
+		],
+    	"image": "https://i.imgur.com/ZJWiJgO.jpeg"
+	},
+	{
+    	"name": "Watcher Knight",
+    	"rarity": "mythic",
+    	"mana_cost":"{W}{U}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Zombie",
+			"Insect",
+			"Knight"
+		],
+    	"image": "https://i.imgur.com/5u5WZHV.jpeg"
+	},
+	{
+    	"name": "Xero, Forgotten Traitor",
+    	"rarity": "uncommon",
+    	"mana_cost":"{R}{W}",
+    	"type": "Legendary Creature",
+		"subtypes" : [
+			"Insect",
+			"Spirit",
+			"Knight"
+		],
+    	"image": "https://i.imgur.com/nIbFPT1.jpeg"
+	},
 ]
 
 #_________________________________________________________________________
@@ -2229,8 +2782,18 @@
 [Common]
 #Colourless
 Bluggsac
-
-
+Coiled Nail
+Crystal Hierolith
+Dashmaster
+Grub Jar
+Map Emporium
+Old Nail
+Ore of Geo
+Soul Catcher
+Soul Totem
+Watcher's Spire
+Wayward Compass
+Gemstone Pickaxe
 
 
 
@@ -2356,6 +2919,38 @@ Volatile Mosskin
 
 #_________________________________________________________________________
 [Uncommon]
+
+#Multicoloured
+Chared Lumaflies
+Crystal Procession
+Death Loodle
+Duelist's Sorrow
+Fluke Hermit, The Observer
+Great Husk Sentry
+Grimmkin Nightmare
+Hallownest's Nailsmith
+Hive Guardian
+Hiveling
+Mantis Petra
+Marmu, Eager Companion
+No Eyes
+Spectacular Stash
+Sporg
+The Crystal Guardian
+The Hive Knight
+The Vessel's Lost Kin
+Unfettered Flourishing
+Xero, Forgotten Traitor
+
+
+#Colourless
+Channeled Nail
+Greatnail
+Jinn, Of Steel Soul
+Mace Bug
+
+
+
 #White
 Emilitia, Eternal Kin
 Galien, Proven Sentinel
@@ -2425,6 +3020,23 @@ Willoh, Station Sentinel
 
 #_________________________________________________________________________
 [Rare]
+#Multicoloured
+Brothers Oro and Mato
+Fungal Eminence
+God Tamer, Coliseum Dignitary
+Lemm, Relic Connoisseur
+Primal Aspid
+Pure Vessel
+Scavage the Topsoil
+Showtime Crescendo
+The Failed Champion
+Troupe Master Grimm
+
+#Colourless
+Ze'mer, Faded Mourner
+Dream Nail
+
+
 #White
 Broken Vessel
 Duelist's Glory
@@ -2489,6 +3101,20 @@ The Shaping of Greenpath
 
 #_________________________________________________________________________
 [Mythic]
+#Multicoloured
+Lurien, The Watcher
+The Pale King
+The Vessel, Hallownest's Savior
+The White Lady
+Unn, God of Thriving
+Uumuu, Teacher's Guardian
+Watcher Knight
+
+
+#Colourless 
+Pure Nail
+
+
 #White
 1 Hegemol, Champion of the Many
 1 The Radiance
