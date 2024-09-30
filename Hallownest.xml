@@ -1,0 +1,5914 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<cockatrice_carddatabase version="4">
+<sets>
+<set>
+<name>HOK</name>
+<longname>Hollow Knight Set</longname>
+<settype>Custom</settype>
+<releasedate>2022-11-25</releasedate>
+</set>
+</sets>
+<cards>
+<card>
+<name>Binding the Vessel</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment --- Saga</type>
+<maintype>Enchantment</maintype>
+<manacost>4BB</manacost>
+<cmc>6</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="1" picurl="https://i.imgur.com/sVZ05cl.png" >HOK</set>
+</card>
+<card>
+<name>Bretta, Distressed Maiden</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>1B</manacost>
+<cmc>2</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="2" picurl="https://i.imgur.com/BllmnZ3.jpeg" >HOK</set>
+</card>
+<card>
+<name>Brooding Mawlek</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Horror</type>
+<maintype>Creature</maintype>
+<manacost>4BB</manacost>
+<cmc>6</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="3" picurl="https://i.imgur.com/Q9bImwH.jpeg" >HOK</set>
+</card>
+<card>
+<name>Carver Hatcher</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>5BB</manacost>
+<cmc>7</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="4" picurl="https://i.imgur.com/AQN7Z38.jpeg" >HOK</set>
+</card>
+<card>
+<name>Corpse Creeper</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect</type>
+<maintype>Creature</maintype>
+<manacost>1BB</manacost>
+<cmc>3</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="5" picurl="https://i.imgur.com/xEb09ms.jpeg" >HOK</set>
+</card>
+<card>
+<name>Crawlid</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>B</manacost>
+<cmc>1</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="6" picurl="https://i.imgur.com/1QawDBZ.jpeg" >HOK</set>
+</card>
+<card>
+<name>Dark Bargin</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>3B</manacost>
+<cmc>4</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="7" picurl="https://i.imgur.com/XCg1GBU.jpeg" >HOK</set>
+</card>
+<card>
+<name>Deephunter</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Horror</type>
+<maintype>Creature</maintype>
+<manacost>B</manacost>
+<cmc>1</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="8" picurl="https://i.imgur.com/mdej1Y0.jpeg" >HOK</set>
+</card>
+<card>
+<name>Deepling</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Horror</type>
+<maintype>Creature</maintype>
+<manacost>1B</manacost>
+<cmc>2</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="9" picurl="https://i.imgur.com/LuBStXd.jpeg" >HOK</set>
+</card>
+<card>
+<name>Dirtcarver</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>1B</manacost>
+<cmc>2</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="10" picurl="https://i.imgur.com/pgY5BBR.jpeg" >HOK</set>
+</card>
+<card>
+<name>Entombed Husk</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect</type>
+<maintype>Creature</maintype>
+<manacost>2B</manacost>
+<cmc>3</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="11" picurl="https://i.imgur.com/8HFbQmt.jpeg" >HOK</set>
+</card>
+<card>
+<name>Foreboding Torch</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact</type>
+<maintype>Artifact</maintype>
+<manacost>2B</manacost>
+<cmc>3</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="12" picurl="https://i.imgur.com/Cxb2YB8.jpeg" >HOK</set>
+</card>
+<card>
+<name>From the Underbrush</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>4BB</manacost>
+<cmc>6</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="13" picurl="https://i.imgur.com/yBloDEO.jpeg" >HOK</set>
+</card>
+<card>
+<name>Garpede</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>4BB</manacost>
+<cmc>6</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="14" picurl="https://i.imgur.com/kcsaCIo.jpeg" >HOK</set>
+</card>
+<card>
+<name>Glowing Womb</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>B</manacost>
+<cmc>1</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="15" picurl="https://i.imgur.com/fo8jX3D.jpeg" >HOK</set>
+</card>
+<card>
+<name>Gruz Mother</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>5BB</manacost>
+<cmc>7</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="16" picurl="https://i.imgur.com/2Rm2mda.jpeg" >HOK</set>
+</card>
+<card>
+<name>Gruzzer</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>1B</manacost>
+<cmc>2</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="17" picurl="https://i.imgur.com/ocVy8G0.jpeg" >HOK</set>
+</card>
+<card>
+<name>Herrah, the Beast</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Enchantment Creature --- Dreamer</type>
+<maintype>Enchantment Creature</maintype>
+<manacost>2BB</manacost>
+<cmc>4</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="18" picurl="https://i.imgur.com/9x0hzqX.jpeg" >HOK</set>
+</card>
+<card>
+<name>Husk Hornhead</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect</type>
+<maintype>Creature</maintype>
+<manacost>1B</manacost>
+<cmc>2</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="19" picurl="https://i.imgur.com/aQv4K9D.jpeg" >HOK</set>
+</card>
+<card>
+<name>Infuse with Void</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>B</manacost>
+<cmc>1</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="20" picurl="https://i.imgur.com/yCEQVh6.jpeg" >HOK</set>
+</card>
+<card>
+<name>Leaping Husk</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect</type>
+<maintype>Creature</maintype>
+<manacost>1B</manacost>
+<cmc>2</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="21" picurl="https://i.imgur.com/3FQivu8.jpeg" >HOK</set>
+</card>
+<card>
+<name>Little Weaver</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Spider</type>
+<maintype>Creature</maintype>
+<manacost>3BB</manacost>
+<cmc>5</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="22" picurl="https://i.imgur.com/ElqYIWC.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mantis Traitor</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Warrior</type>
+<maintype>Creature</maintype>
+<manacost>3B</manacost>
+<cmc>4</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="23" picurl="https://i.imgur.com/L8uJH0F.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mass Awakening</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>1BB</manacost>
+<cmc>3</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="24" picurl="https://i.imgur.com/N3RlkEs.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mawlurk</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Horror</type>
+<maintype>Creature</maintype>
+<manacost>2B</manacost>
+<cmc>3</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="25" picurl="https://i.imgur.com/hIbp4td.jpeg" >HOK</set>
+</card>
+<card>
+<name>Midwife, Ravenous Trickster</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Shapeshifter</type>
+<maintype>Creature</maintype>
+<manacost>4BB</manacost>
+<cmc>6</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="26" picurl="https://i.imgur.com/mF5eq1H.jpeg" >HOK</set>
+</card>
+<card>
+<name>Nosk</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Horror</type>
+<maintype>Creature</maintype>
+<manacost>2BB</manacost>
+<cmc>4</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="27" picurl="https://i.imgur.com/GH2vcxK.jpeg" >HOK</set>
+</card>
+<card>
+<name>Nymm Breaks the Cycle</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>6BBB</manacost>
+<cmc>9</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="28" picurl="https://i.imgur.com/sqDrSQK.jpeg" >HOK</set>
+</card>
+<card>
+<name>Obble</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>3B</manacost>
+<cmc>4</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="29" picurl="https://i.imgur.com/ycNef6s.jpeg" >HOK</set>
+</card>
+<card>
+<name>Puncturing Assault</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>3BB</manacost>
+<cmc>5</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="30" picurl="https://i.imgur.com/TTLQ3vJ.jpeg" >HOK</set>
+</card>
+<card>
+<name>Raking Limbs</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>2B</manacost>
+<cmc>3</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="31" picurl="https://i.imgur.com/EvCpXo9.jpeg" >HOK</set>
+</card>
+<card>
+<name>Rite of Chains</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>BB</manacost>
+<cmc>2</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="32" picurl="https://i.imgur.com/OksuYUT.jpeg" >HOK</set>
+</card>
+<card>
+<name>Ruthless Mutilation</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>2BB</manacost>
+<cmc>4</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="33" picurl="https://i.imgur.com/Qv8QL3e.jpeg" >HOK</set>
+</card>
+<card>
+<name>Saving Zote From Himself</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment --- Saga</type>
+<maintype>Enchantment</maintype>
+<manacost>2BB</manacost>
+<cmc>4</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="34" picurl="https://i.imgur.com/MZ63kmN.jpeg" >HOK</set>
+</card>
+<card>
+<name>Shade</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment --- Aura</type>
+<maintype>Enchantment</maintype>
+<manacost>B</manacost>
+<cmc>1</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="35" picurl="https://i.imgur.com/MZ63kmN.jpeg" >HOK</set>
+</card>
+<card>
+<name>Sibling</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Shade</type>
+<maintype>Creature</maintype>
+<manacost>B</manacost>
+<cmc>1</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="36" picurl="https://i.imgur.com/QKnpAqv.jpeg" >HOK</set>
+</card>
+<card>
+<name>Slobbering Husk</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect Horror</type>
+<maintype>Creature</maintype>
+<manacost>1B</manacost>
+<cmc>2</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="37" picurl="https://i.imgur.com/tftDVuh.jpeg" >HOK</set>
+</card>
+<card>
+<name>Stalking Devout</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Horror</type>
+<maintype>Creature</maintype>
+<manacost>4BB</manacost>
+<cmc>6</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="38" picurl="https://i.imgur.com/pL4tFvn.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Collector</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Shade Horror</type>
+<maintype>Creature</maintype>
+<manacost>BBB</manacost>
+<cmc>3</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="39" picurl="https://i.imgur.com/THB6T77.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Hollow Knight</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Shade Knight Horror</type>
+<maintype>Creature</maintype>
+<manacost>1BB</manacost>
+<cmc>3</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="40" picurl="https://i.imgur.com/Gcq1bHs.jpeg" >HOK</set>
+</card>
+<card>
+<name>Vengefly King</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Noble</type>
+<maintype>Creature</maintype>
+<manacost>1BB</manacost>
+<cmc>3</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="41" picurl="https://i.imgur.com/8hul3ud.jpeg" >HOK</set>
+</card>
+<card>
+<name>Vexing Exhibition</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>2BB</manacost>
+<cmc>4</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="42" picurl="https://i.imgur.com/UkB6ZfT.jpeg" >HOK</set>
+</card>
+<card>
+<name>Village Rites</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>B</manacost>
+<cmc>1</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="43" picurl="https://i.imgur.com/ImOSytM.jpeg" >HOK</set>
+</card>
+<card>
+<name>Void Tendrils</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Shade Wall</type>
+<maintype>Creature</maintype>
+<manacost>1B</manacost>
+<cmc>2</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="44" picurl="https://i.imgur.com/DHJ7T9I.jpeg" >HOK</set>
+</card>
+<card>
+<name>Volatile Gruzzer</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Horror</type>
+<maintype>Creature</maintype>
+<manacost>1BB</manacost>
+<cmc>3</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="45" picurl="https://i.imgur.com/Daw6cf3.jpeg" >HOK</set>
+</card>
+<card>
+<name>Wandering Husk</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect</type>
+<maintype>Creature</maintype>
+<manacost>2B</manacost>
+<cmc>3</cmc>
+<colors>B</colors>
+<coloridentity>B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="46" picurl="https://i.imgur.com/18SKjsm.jpeg" >HOK</set>
+</card>
+<card>
+<name>Accumulated Studies</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>7UU</manacost>
+<cmc>9</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="47" picurl="https://i.imgur.com/eXJNSd0.jpeg" >HOK</set>
+</card>
+<card>
+<name>Baldur Shell</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>UU</manacost>
+<cmc>2</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="48" picurl="https://i.imgur.com/Rtxj2Ca.jpeg" >HOK</set>
+</card>
+<card>
+<name>Clutterstitch</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>1U</manacost>
+<cmc>2</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="49" picurl="https://i.imgur.com/3WHBC7Z.jpeg" >HOK</set>
+</card>
+<card>
+<name>Collector's Grasp</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>1U</manacost>
+<cmc>2</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="50" picurl="https://i.imgur.com/FhkBugX.jpeg" >HOK</set>
+</card>
+<card>
+<name>Consign To Prophecy</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="51" picurl="https://i.imgur.com/uuaUfCg.jpeg" >HOK</set>
+</card>
+<card>
+<name>Cornifer, Driven Catographer</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Scout</type>
+<maintype>Creature</maintype>
+<manacost>UU</manacost>
+<cmc>2</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="52" picurl="https://i.imgur.com/No3lIHw.jpeg" >HOK</set>
+</card>
+<card>
+<name>Crystal Crawlers</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact Creature --- Insect</type>
+<maintype>Artifact Creature</maintype>
+<manacost>U</manacost>
+<cmc>1</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="53" picurl="https://i.imgur.com/1SDCGj3.jpeg" >HOK</set>
+</card>
+<card>
+<name>Crystal Hunter</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact Creature --- Insect</type>
+<maintype>Artifact Creature</maintype>
+<manacost>3U</manacost>
+<cmc>4</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="54" picurl="https://i.imgur.com/EK8o1N5.jpeg" >HOK</set>
+</card>
+<card>
+<name>Crystal Stasis</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment --- Aura</type>
+<maintype>Enchantment</maintype>
+<manacost>1U</manacost>
+<cmc>2</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="55" picurl="https://i.imgur.com/8USVTDd.jpeg" >HOK</set>
+</card>
+<card>
+<name>Crystalized Husk</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact Creature --- Zombie Insect</type>
+<maintype>Artifact Creature</maintype>
+<manacost>2UU</manacost>
+<cmc>4</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="56" picurl="https://i.imgur.com/GugflLG.jpeg" >HOK</set>
+</card>
+<card>
+<name>Duranada</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact Creature --- Insect</type>
+<maintype>Artifact Creature</maintype>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="57" picurl="https://i.imgur.com/yOjVGZi.jpeg" >HOK</set>
+</card>
+<card>
+<name>Durandoo</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact Creature --- Insect</type>
+<maintype>Artifact Creature</maintype>
+<manacost>4U</manacost>
+<cmc>5</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="58" picurl="https://i.imgur.com/z4zEFND.jpeg" >HOK</set>
+</card>
+<card>
+<name>Eerie Discovery</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>1U</manacost>
+<cmc>2</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="59" picurl="https://i.imgur.com/33rUGyd.jpeg" >HOK</set>
+</card>
+<card>
+<name>Fluke Outbreak</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="60" picurl="https://i.imgur.com/bPRfPdO.jpeg" >HOK</set>
+</card>
+<card>
+<name>Flukefey</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Horror</type>
+<maintype>Creature</maintype>
+<manacost>1U</manacost>
+<cmc>2</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="61" picurl="https://i.imgur.com/2Zb7f1C.jpeg" >HOK</set>
+</card>
+<card>
+<name>Flukemarm</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Horror</type>
+<maintype>Creature</maintype>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="62" picurl="https://i.imgur.com/SkXgWmh.jpeg" >HOK</set>
+</card>
+<card>
+<name>Flukemon</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Horror</type>
+<maintype>Creature</maintype>
+<manacost>4U</manacost>
+<cmc>5</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="63" picurl="https://i.imgur.com/vykIqV9.jpeg" >HOK</set>
+</card>
+<card>
+<name>Flukemunga</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Beast</type>
+<maintype>Creature</maintype>
+<manacost>4UU</manacost>
+<cmc>6</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="64" picurl="https://i.imgur.com/89KVzXa.jpeg" >HOK</set>
+</card>
+<card>
+<name>Folly</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Spirit</type>
+<maintype>Creature</maintype>
+<manacost>3U</manacost>
+<cmc>4</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="65" picurl="https://i.imgur.com/MtzPqOU.jpeg" >HOK</set>
+</card>
+<card>
+<name>Forbidden Revelation</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="66" picurl="https://i.imgur.com/joNgJMf.jpeg" >HOK</set>
+</card>
+<card>
+<name>Glimback</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact Creature --- Insect</type>
+<maintype>Artifact Creature</maintype>
+<manacost>2UU</manacost>
+<cmc>4</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="67" picurl="https://i.imgur.com/QSCneNn.jpeg" >HOK</set>
+</card>
+<card>
+<name>Gorb, Radiant Mind</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Spirit</type>
+<maintype>Creature</maintype>
+<manacost>4UU</manacost>
+<cmc>6</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="68" picurl="https://i.imgur.com/nAIZdro.jpeg" >HOK</set>
+</card>
+<card>
+<name>Husk Miner</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect</type>
+<maintype>Creature</maintype>
+<manacost>1U</manacost>
+<cmc>2</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="69" picurl="https://i.imgur.com/QrVy1sH.jpeg" >HOK</set>
+</card>
+<card>
+<name>Iselda, Cornifer's Beloved</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>3UU</manacost>
+<cmc>5</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="70" picurl="https://i.imgur.com/BeboQur.jpeg" >HOK</set>
+</card>
+<card>
+<name>Maskfly</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>U</manacost>
+<cmc>1</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="71" picurl="https://i.imgur.com/SZT9bsZ.jpeg" >HOK</set>
+</card>
+<card>
+<name>Menderbug</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Artificer</type>
+<maintype>Creature</maintype>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="72" picurl="https://i.imgur.com/gmDlPmD.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mistake</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Spirit</type>
+<maintype>Creature</maintype>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="73" picurl="https://i.imgur.com/TXva0Wb.jpeg" >HOK</set>
+</card>
+<card>
+<name>Monomon, The Teacher</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Enchantment Creature --- Dreamer</type>
+<maintype>Enchantment Creature</maintype>
+<manacost>4UU</manacost>
+<cmc>6</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="74" picurl="https://i.imgur.com/VYiWjYp.jpeg" >HOK</set>
+</card>
+<card>
+<name>Monomon's Mark</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Enchantment --- Aura</type>
+<maintype>Enchantment</maintype>
+<manacost>U</manacost>
+<cmc>1</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="75" picurl="https://i.imgur.com/OS9TrJP.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mystical Unmaking</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>4UU</manacost>
+<cmc>6</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="76" picurl="https://i.imgur.com/bO6yZbk.jpeg" >HOK</set>
+</card>
+<card>
+<name>Piflip</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="77" picurl="https://i.imgur.com/fKjpyk8.jpeg" >HOK</set>
+</card>
+<card>
+<name>Quirrel, Monomon's Envoy</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Scout</type>
+<maintype>Creature</maintype>
+<manacost>U</manacost>
+<cmc>1</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="78" picurl="https://i.imgur.com/sp5e9nh.jpeg" >HOK</set>
+</card>
+<card>
+<name>Quirrel Traverses Hallownest</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment --- Saga</type>
+<maintype>Enchantment</maintype>
+<manacost>1U</manacost>
+<cmc>2</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="79" picurl="https://i.imgur.com/ls941os.png" >HOK</set>
+</card>
+<card>
+<name>Resonant Monument</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact</type>
+<maintype>Artifact</maintype>
+<manacost>U</manacost>
+<cmc>1</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="80" picurl="https://i.imgur.com/m61KImi.jpeg" >HOK</set>
+</card>
+<card>
+<name>Shape Of Unn</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>U</manacost>
+<cmc>1</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="81" picurl="https://i.imgur.com/PVxWM6p.jpeg" >HOK</set>
+</card>
+<card>
+<name>Shardmite</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact Creature --- Insect</type>
+<maintype>Artifact Creature</maintype>
+<manacost>1U</manacost>
+<cmc>2</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="82" picurl="https://i.imgur.com/0iQb2Bp.jpeg" >HOK</set>
+</card>
+<card>
+<name>Snail Shaman</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Shaman</type>
+<maintype>Creature</maintype>
+<manacost>1U</manacost>
+<cmc>2</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="83" picurl="https://i.imgur.com/Nb4t7Nt.jpeg" >HOK</set>
+</card>
+<card>
+<name>Soul Twister</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Wizard</type>
+<maintype>Creature</maintype>
+<manacost>2U</manacost>
+<cmc>3</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="84" picurl="https://i.imgur.com/44ITmpv.jpeg" >HOK</set>
+</card>
+<card>
+<name>Soul Warrior</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Warrior Wizard</type>
+<maintype>Creature</maintype>
+<manacost>3U</manacost>
+<cmc>4</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="85" picurl="https://i.imgur.com/JDPlmN5.jpeg" >HOK</set>
+</card>
+<card>
+<name>Squint</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>3U</manacost>
+<cmc>4</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="86" picurl="https://i.imgur.com/d3kQ1K3.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Pale King's Return</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment --- Saga</type>
+<maintype>Enchantment</maintype>
+<manacost>3UU</manacost>
+<cmc>5</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="87" picurl="https://i.imgur.com/ktaJj5W.png" >HOK</set>
+</card>
+<card>
+<name>The Soul Master</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Advisor</type>
+<maintype>Creature</maintype>
+<manacost>2UUUU</manacost>
+<cmc>6</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="88" picurl="https://i.imgur.com/bOIs93r.jpeg" >HOK</set>
+</card>
+<card>
+<name>Uoma</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact Creature --- Jellyfish</type>
+<maintype>Artifact Creature</maintype>
+<manacost>U</manacost>
+<cmc>1</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="89" picurl="https://i.imgur.com/ro0fUsG.jpeg" >HOK</set>
+</card>
+<card>
+<name>Void Snare</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>U</manacost>
+<cmc>1</cmc>
+<colors>U</colors>
+<coloridentity>U</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="90" picurl="https://i.imgur.com/T9lF9U1.jpeg" >HOK</set>
+</card>
+<card>
+<name>Antiquity Restoration</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>3R</manacost>
+<cmc>4</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="91" picurl="https://i.imgur.com/1sXJrqs.jpeg" >HOK</set>
+</card>
+<card>
+<name>Armored Squint</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>3RR</manacost>
+<cmc>5</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="92" picurl="https://i.imgur.com/YeWjK92.jpeg" >HOK</set>
+</card>
+<card>
+<name>Aspid Hunter</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="93" picurl="https://i.imgur.com/TkNUjAq.jpeg" >HOK</set>
+</card>
+<card>
+<name>Aspid Mother</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>3RR</manacost>
+<cmc>5</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="94" picurl="https://i.imgur.com/SRcW97y.jpeg" >HOK</set>
+</card>
+<card>
+<name>Baldur</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Beast</type>
+<maintype>Creature</maintype>
+<manacost>R</manacost>
+<cmc>1</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="95" picurl="https://i.imgur.com/MlbHyhM.jpeg" >HOK</set>
+</card>
+<card>
+<name>Bardoon, Witness to Ages</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Elder Insect</type>
+<maintype>Creature</maintype>
+<manacost>4RR</manacost>
+<cmc>6</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="96" picurl="https://i.imgur.com/AmQome3.jpeg" >HOK</set>
+</card>
+<card>
+<name>Battle Obble</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>2RR</manacost>
+<cmc>4</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="97" picurl="https://i.imgur.com/YSWWNv4.jpeg" >HOK</set>
+</card>
+<card>
+<name>Biting Shriek</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>R</manacost>
+<cmc>1</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="98" picurl="https://i.imgur.com/0oq3wUq.jpeg" >HOK</set>
+</card>
+<card>
+<name>Braving the Colosseum</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment --- Saga</type>
+<maintype>Enchantment</maintype>
+<manacost>2RR</manacost>
+<cmc>4</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="99" picurl="https://i.imgur.com/M0LvH5Q.png" >HOK</set>
+</card>
+<card>
+<name>Brumm, Evermore Shaman</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Bard Shaman</type>
+<maintype>Creature</maintype>
+<manacost>2RR</manacost>
+<cmc>4</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="100" picurl="https://i.imgur.com/4dFLOnx.jpeg" >HOK</set>
+</card>
+<card>
+<name>Burning Legacy</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment</type>
+<maintype>Enchantment</maintype>
+<manacost>2R</manacost>
+<cmc>3</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="101" picurl="https://i.imgur.com/m0N5dN7.jpeg" >HOK</set>
+</card>
+<card>
+<name>Clustervoltage</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>R</manacost>
+<cmc>1</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="102" picurl="https://i.imgur.com/zJLoui7.jpeg" >HOK</set>
+</card>
+<card>
+<name>Divine, Irksome Specialist</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Shaman</type>
+<maintype>Creature</maintype>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="103" picurl="https://i.imgur.com/fpUSIug.jpeg" >HOK</set>
+</card>
+<card>
+<name>Dryya, Fierce Preserver</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Knight</type>
+<maintype>Creature</maintype>
+<manacost>2RR</manacost>
+<cmc>4</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="104" picurl="https://i.imgur.com/zo6Ai6g.jpeg" >HOK</set>
+</card>
+<card>
+<name>Elder Baldur</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Beast</type>
+<maintype>Creature</maintype>
+<manacost>3R</manacost>
+<cmc>4</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="105" picurl="https://i.imgur.com/8OS9HVw.jpeg" >HOK</set>
+</card>
+<card>
+<name>Fungified Husk</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Fungus Insect</type>
+<maintype>Creature</maintype>
+<manacost>2R</manacost>
+<cmc>3</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="106" picurl="https://i.imgur.com/I80MPil.jpeg" >HOK</set>
+</card>
+<card>
+<name>Furious Vengefly</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Berserker</type>
+<maintype>Creature</maintype>
+<manacost>2R</manacost>
+<cmc>3</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="107" picurl="https://i.imgur.com/rkIv8Ns.jpeg" >HOK</set>
+</card>
+<card>
+<name>Fury of the Fallen</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>R</manacost>
+<cmc>1</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="108" picurl="https://i.imgur.com/AryuB34.jpeg" >HOK</set>
+</card>
+<card>
+<name>Grimmchild</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>1RR</manacost>
+<cmc>3</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="109" picurl="https://i.imgur.com/pqwGepO.jpeg" >HOK</set>
+</card>
+<card>
+<name>Grimmkin Master</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Spirit Shaman</type>
+<maintype>Creature</maintype>
+<manacost>3R</manacost>
+<cmc>4</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="110" picurl="https://i.imgur.com/RaudflF.jpeg" >HOK</set>
+</card>
+<card>
+<name>Grimmkin Novice</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Spirit Shaman</type>
+<maintype>Creature</maintype>
+<manacost>R</manacost>
+<cmc>1</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="111" picurl="https://i.imgur.com/iyG1O0T.jpeg" >HOK</set>
+</card>
+<card>
+<name>Grimmkin Ritual</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment --- Saga</type>
+<maintype>Enchantment</maintype>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="112" picurl="https://i.imgur.com/cxCn5DU.jpeg" >HOK</set>
+</card>
+<card>
+<name>Hallowed Pyre</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="113" picurl="https://i.imgur.com/eVDsdev.jpeg" >HOK</set>
+</card>
+<card>
+<name>Heavy Fool</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Berserker</type>
+<maintype>Creature</maintype>
+<manacost>4RR</manacost>
+<cmc>6</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="114" picurl="https://i.imgur.com/4azjBm1.jpeg" >HOK</set>
+</card>
+<card>
+<name>Husk Bully</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect</type>
+<maintype>Creature</maintype>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="115" picurl="https://i.imgur.com/QW8d1aT.jpeg" >HOK</set>
+</card>
+<card>
+<name>Infectious Animosity</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>1RR</manacost>
+<cmc>3</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="116" picurl="https://i.imgur.com/ZKvtat7.jpeg" >HOK</set>
+</card>
+<card>
+<name>Jeering Audience</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>R</manacost>
+<cmc>1</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="117" picurl="https://i.imgur.com/CfZfJT4.jpeg" >HOK</set>
+</card>
+<card>
+<name>Lesser Mawlek</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Horror</type>
+<maintype>Creature</maintype>
+<manacost>3RR</manacost>
+<cmc>5</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="118" picurl="https://i.imgur.com/AMsOLSN.jpeg" >HOK</set>
+</card>
+<card>
+<name>Little Fool</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Coward</type>
+<maintype>Creature</maintype>
+<manacost>1RR</manacost>
+<cmc>3</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="119" picurl="https://i.imgur.com/kcJXIWS.jpeg" >HOK</set>
+</card>
+<card>
+<name>Makeshift Munitions</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment</type>
+<maintype>Enchantment</maintype>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="120" picurl="https://i.imgur.com/WkeUiqq.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mantis Warrior</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Warrior</type>
+<maintype>Creature</maintype>
+<manacost>3R</manacost>
+<cmc>4</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="121" picurl="https://i.imgur.com/orfb2LT.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mantis Youth</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="122" picurl="https://i.imgur.com/PIBctLg.jpeg" >HOK</set>
+</card>
+<card>
+<name>Millibelle, Suspicious Banker</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>RR</manacost>
+<cmc>2</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="123" picurl="https://i.imgur.com/ccTjiBV.jpeg" >HOK</set>
+</card>
+<card>
+<name>Nightmare King Grimm</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Planeswalker --- Grimm</type>
+<maintype>Planeswalker</maintype>
+<manacost>3RR</manacost>
+<cmc>5</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="124" picurl="https://i.imgur.com/11gWmWm.jpeg" >HOK</set>
+</card>
+<card>
+<name>Ooma</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact Creature --- Jellyfish</type>
+<maintype>Artifact Creature</maintype>
+<manacost>2R</manacost>
+<cmc>3</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="125" picurl="https://i.imgur.com/rMQH07z.jpeg" >HOK</set>
+</card>
+<card>
+<name>Paintmaster Sheo</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Warrior</type>
+<maintype>Creature</maintype>
+<manacost>2RRR</manacost>
+<cmc>5</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="126" picurl="https://i.imgur.com/hrvG9G2.jpeg" >HOK</set>
+</card>
+<card>
+<name>Sharp Baldur</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>2R</manacost>
+<cmc>3</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="127" picurl="https://i.imgur.com/fGkrApy.jpeg" >HOK</set>
+</card>
+<card>
+<name>Sly, Great Nailsage</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Warrior</type>
+<maintype>Creature</maintype>
+<manacost>R</manacost>
+<cmc>1</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="128" picurl="https://i.imgur.com/I1wjbEW.jpeg" >HOK</set>
+</card>
+<card>
+<name>Spectacular Finale</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>4RR</manacost>
+<cmc>6</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="129" picurl="https://i.imgur.com/CeqgxT1.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Enraged Guardian</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Artifact Creature --- Insect</type>
+<maintype>Artifact Creature</maintype>
+<manacost>1RR</manacost>
+<cmc>3</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="130" picurl="https://i.imgur.com/XoyccQr.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Kingflame</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>2RR</manacost>
+<cmc>4</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="131" picurl="https://i.imgur.com/jsRr2Nv.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Mantis Lords</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Warrior</type>
+<maintype>Creature</maintype>
+<manacost>2R</manacost>
+<cmc>3</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="132" picurl="https://i.imgur.com/pLNDEXj.jpeg" >HOK</set>
+</card>
+<card>
+<name>Violent Husk</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect Berserker</type>
+<maintype>Creature</maintype>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="133" picurl="https://i.imgur.com/yUWNphW.jpeg" >HOK</set>
+</card>
+<card>
+<name>Volatile Egg</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact</type>
+<maintype>Artifact</maintype>
+<manacost>1R</manacost>
+<cmc>2</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="134" picurl="https://i.imgur.com/VOh67V9.jpeg" >HOK</set>
+</card>
+<card>
+<name>Zealous Artifice</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>R</manacost>
+<cmc>1</cmc>
+<colors>R</colors>
+<coloridentity>R</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="135" picurl="https://i.imgur.com/XeNLVDM.jpeg" >HOK</set>
+</card>
+<card>
+<name>1000 Stings</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="136" picurl="https://i.imgur.com/bf3Niw6.jpeg" >HOK</set>
+</card>
+<card>
+<name>Ambloom</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Fungus</type>
+<maintype>Creature</maintype>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="137" picurl="https://i.imgur.com/bf3Niw6.jpeg" >HOK</set>
+</card>
+<card>
+<name>Cloth, Hardy Adventurer</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Warrior</type>
+<maintype>Creature</maintype>
+<manacost>3GG</manacost>
+<cmc>5</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="138" picurl="https://i.imgur.com/6gGWG3y.jpeg" >HOK</set>
+</card>
+<card>
+<name>Cloth's Last Stand</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="139" picurl="https://i.imgur.com/8uYBTNT.jpeg" >HOK</set>
+</card>
+<card>
+<name>Elder Hu, Memorialized Sage</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Spirit Advisor</type>
+<maintype>Creature</maintype>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="140" picurl="https://i.imgur.com/h39EZCu.jpeg" >HOK</set>
+</card>
+<card>
+<name>Fool Eater</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Plant</type>
+<maintype>Creature</maintype>
+<manacost>4G</manacost>
+<cmc>5</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="141" picurl="https://i.imgur.com/QJ57qMD.jpeg" >HOK</set>
+</card>
+<card>
+<name>Fungal Mists</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>4G</manacost>
+<cmc>5</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="142" picurl="https://i.imgur.com/1zOvWdn.jpeg" >HOK</set>
+</card>
+<card>
+<name>Fungling</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Fungal Insect</type>
+<maintype>Creature</maintype>
+<manacost>1GG</manacost>
+<cmc>3</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="143" picurl="https://i.imgur.com/p6XFPz3.jpeg" >HOK</set>
+</card>
+<card>
+<name>Fungoon</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Fungal Insect Beast</type>
+<maintype>Creature</maintype>
+<manacost>4G</manacost>
+<cmc>5</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="144" picurl="https://i.imgur.com/i6cLu96.jpeg" >HOK</set>
+</card>
+<card>
+<name>Greenpath Stirs</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>2GG</manacost>
+<cmc>4</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="145" picurl="https://i.imgur.com/bZJoN4G.jpeg" >HOK</set>
+</card>
+<card>
+<name>Grub Mimic</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>3GG</manacost>
+<cmc>5</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="146" picurl="https://i.imgur.com/hZQcaEA.jpeg" >HOK</set>
+</card>
+<card>
+<name>Grubsong</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment --- Saga</type>
+<maintype>Enchantment</maintype>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="147" picurl="https://i.imgur.com/sxnpAap.png" >HOK</set>
+</card>
+<card>
+<name>Gulka</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Plant</type>
+<maintype>Creature</maintype>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="148" picurl="https://i.imgur.com/jUdjpsO.jpeg" >HOK</set>
+</card>
+<card>
+<name>Hive Soldier</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Soldier</type>
+<maintype>Creature</maintype>
+<manacost>1GG</manacost>
+<cmc>3</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="149" picurl="https://i.imgur.com/KSofMBD.jpeg" >HOK</set>
+</card>
+<card>
+<name>Husk Hive</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect</type>
+<maintype>Creature</maintype>
+<manacost>3GG</manacost>
+<cmc>5</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="150" picurl="https://i.imgur.com/1f6ftrm.jpeg" >HOK</set>
+</card>
+<card>
+<name>Isma, Soul of Compassion</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Knight</type>
+<maintype>Creature</maintype>
+<manacost>5GGG</manacost>
+<cmc>8</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="151" picurl="https://i.imgur.com/l00IG3i.jpeg" >HOK</set>
+</card>
+<card>
+<name>Loodle</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="152" picurl="https://i.imgur.com/TyDLjlK.jpeg" >HOK</set>
+</card>
+<card>
+<name>Massive Moss Charger</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Plant Insect</type>
+<maintype>Creature</maintype>
+<manacost>2GG</manacost>
+<cmc>4</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="153" picurl="https://i.imgur.com/zBf3EeG.jpeg" >HOK</set>
+</card>
+<card>
+<name>Moss Charger</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Plant Insect</type>
+<maintype>Creature</maintype>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="154" picurl="https://i.imgur.com/4Tvq25q.jpeg" >HOK</set>
+</card>
+<card>
+<name>Moss Knight</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Plant Insect Knight</type>
+<maintype>Creature</maintype>
+<manacost>3G</manacost>
+<cmc>4</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="155" picurl="https://i.imgur.com/aJVFBrG.jpeg" >HOK</set>
+</card>
+<card>
+<name>Moss Prophet</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Plant Insect Shaman</type>
+<maintype>Creature</maintype>
+<manacost>3GG</manacost>
+<cmc>5</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="156" picurl="https://i.imgur.com/6XpNnx5.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mosscloak</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment</type>
+<maintype>Enchantment</maintype>
+<manacost>1GG</manacost>
+<cmc>3</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="157" picurl="https://i.imgur.com/6XpNnx5.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mosscreep</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Plant Insect</type>
+<maintype>Creature</maintype>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="158" picurl="https://i.imgur.com/D9BDcLd.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mossfly</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Plant Insect</type>
+<maintype>Creature</maintype>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="159" picurl="https://i.imgur.com/JTx0Q3z.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mosskin</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Plant Insect</type>
+<maintype>Creature</maintype>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="160" picurl="https://i.imgur.com/UmpPMSf.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mossy Propogation</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="161" picurl="https://i.imgur.com/ZIvrBwk.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mossy Vagabond</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Plant Insect Shaman</type>
+<maintype>Creature</maintype>
+<manacost>5G</manacost>
+<cmc>6</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="162" picurl="https://i.imgur.com/hLfP5lr.jpeg" >HOK</set>
+</card>
+<card>
+<name>Power By Proxy</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>G</manacost>
+<cmc>1</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="163" picurl="https://i.imgur.com/eXFx5sk.jpeg" >HOK</set>
+</card>
+<card>
+<name>Queen's Hymn</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>2GG</manacost>
+<cmc>4</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="164" picurl="https://i.imgur.com/5JrYXyU.jpeg" >HOK</set>
+</card>
+<card>
+<name>Savage Ambuscade</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="165" picurl="https://i.imgur.com/On77UaW.jpeg" >HOK</set>
+</card>
+<card>
+<name>Shrumal Ogre</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Fungus</type>
+<maintype>Creature</maintype>
+<manacost>4GG</manacost>
+<cmc>6</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="166" picurl="https://i.imgur.com/wfEYnwH.jpeg" >HOK</set>
+</card>
+<card>
+<name>Shrumal Warrior</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Fungus Warrior</type>
+<maintype>Creature</maintype>
+<manacost>3G</manacost>
+<cmc>4</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="167" picurl="https://i.imgur.com/V5SyrWb.jpeg" >HOK</set>
+</card>
+<card>
+<name>Slice in Twain</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>2GG</manacost>
+<cmc>4</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="168" picurl="https://i.imgur.com/JYJxLZ5.jpeg" >HOK</set>
+</card>
+<card>
+<name>Spiny Husk</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Plant Insect</type>
+<maintype>Creature</maintype>
+<manacost>2GG</manacost>
+<cmc>4</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="169" picurl="https://i.imgur.com/pkwfF1I.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Hunter</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Elemental</type>
+<maintype>Creature</maintype>
+<manacost>3GG</manacost>
+<cmc>5</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="170" picurl="https://i.imgur.com/GTkdfdX.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Last Stag</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Beast</type>
+<maintype>Creature</maintype>
+<manacost>1GG</manacost>
+<cmc>3</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="171" picurl="https://i.imgur.com/G2v92n1.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Shaping of Greenpath</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment --- Saga</type>
+<maintype>Enchantment</maintype>
+<manacost>2G</manacost>
+<cmc>3</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="172" picurl="https://i.imgur.com/2Gd4xG1.png" >HOK</set>
+</card>
+<card>
+<name>The Traitor Lord</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>2GG</manacost>
+<cmc>4</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="173" picurl="https://i.imgur.com/AKJWjB8.jpeg" >HOK</set>
+</card>
+<card>
+<name>Thorn Overgrowth</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>3GG</manacost>
+<cmc>5</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="174" picurl="https://i.imgur.com/AnII4UL.jpeg" >HOK</set>
+</card>
+<card>
+<name>Thorns of Agony</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>G</manacost>
+<cmc>1</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="175" picurl="https://i.imgur.com/iNvlbOk.jpeg" >HOK</set>
+</card>
+<card>
+<name>Vespa, Queen of the Hive</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Spirit Noble</type>
+<maintype>Creature</maintype>
+<manacost>GG</manacost>
+<cmc>2</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="176" picurl="https://i.imgur.com/iNvlbOk.jpeg" >HOK</set>
+</card>
+<card>
+<name>Volatile Mosskin</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Plant Insect</type>
+<maintype>Creature</maintype>
+<manacost>3G</manacost>
+<cmc>4</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="177" picurl="https://i.imgur.com/niu5lgY.jpeg" >HOK</set>
+</card>
+<card>
+<name>Wastes Germination</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment</type>
+<maintype>Enchantment</maintype>
+<manacost>1G</manacost>
+<cmc>2</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="178" picurl="https://i.imgur.com/15vaKp6.jpeg" >HOK</set>
+</card>
+<card>
+<name>Willoh, Station Sentinel</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>3GG</manacost>
+<cmc>5</cmc>
+<colors>G</colors>
+<coloridentity>G</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="179" picurl="https://i.imgur.com/rNu0732.jpeg" >HOK</set>
+</card>
+<card>
+<name>Boofly</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Beast</type>
+<maintype>Creature</maintype>
+<manacost>4WW</manacost>
+<cmc>6</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="180" picurl="https://i.imgur.com/lDCxkt4.jpeg" >HOK</set>
+</card>
+<card>
+<name>Broken Vessel</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>WWW</manacost>
+<cmc>3</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="181" picurl="https://i.imgur.com/PmgcpP3.jpeg" >HOK</set>
+</card>
+<card>
+<name>Call of the Hive</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>2WW</manacost>
+<cmc>4</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="182" picurl="https://i.imgur.com/dmxr2ZR.jpeg" >HOK</set>
+</card>
+<card>
+<name>Cowardly Husk</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect Noble</type>
+<maintype>Creature</maintype>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="183" picurl="https://i.imgur.com/BaDQCAu.jpeg" >HOK</set>
+</card>
+<card>
+<name>Dreamers' Totem</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact</type>
+<maintype>Artifact</maintype>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="184" picurl="https://i.imgur.com/nMCIfUt.jpeg" >HOK</set>
+</card>
+<card>
+<name>Duelist's Brilliance</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment --- Aura</type>
+<maintype>Enchantment</maintype>
+<manacost>W</manacost>
+<cmc>1</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="185" picurl="https://i.imgur.com/Dliuq1R.jpeg" >HOK</set>
+</card>
+<card>
+<name>Duelist's Glory</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment</type>
+<maintype>Enchantment</maintype>
+<manacost>W</manacost>
+<cmc>1</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="186" picurl="https://i.imgur.com/zXdP4Em.jpeg" >HOK</set>
+</card>
+<card>
+<name>Duelist's Imposition</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>1W</manacost>
+<cmc>2</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="187" picurl="https://i.imgur.com/309D4JT.jpeg" >HOK</set>
+</card>
+<card>
+<name>Emilitia, Eternal Kin</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Noble</type>
+<maintype>Creature</maintype>
+<manacost>5WW</manacost>
+<cmc>7</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="188" picurl="https://i.imgur.com/cZUqdFj.jpeg" >HOK</set>
+</card>
+<card>
+<name>Galien, Proven Sentinel</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Spirit Knight</type>
+<maintype>Creature</maintype>
+<manacost>1WW</manacost>
+<cmc>3</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="189" picurl="https://i.imgur.com/J2IIxdk.jpeg" >HOK</set>
+</card>
+<card>
+<name>Gluttonous Husk</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect Noble</type>
+<maintype>Creature</maintype>
+<manacost>3W</manacost>
+<cmc>4</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="190" picurl="https://i.imgur.com/Inzl6xn.jpeg" >HOK</set>
+</card>
+<card>
+<name>Godseeker of the Pantheons</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>4WW</manacost>
+<cmc>6</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="191" picurl="https://i.imgur.com/1vUjmJQ.jpeg" >HOK</set>
+</card>
+<card>
+<name>Gorgeous Husk</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact Creature --- Insect Noble</type>
+<maintype>Artifact Creature</maintype>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="192" picurl="https://i.imgur.com/ipidq0S.jpeg" >HOK</set>
+</card>
+<card>
+<name>Great Hopper</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>3WW</manacost>
+<cmc>5</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="193" picurl="https://i.imgur.com/pMLOA0l.jpeg" >HOK</set>
+</card>
+<card>
+<name>Heavy Sentry</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Knight</type>
+<maintype>Creature</maintype>
+<manacost>3WW</manacost>
+<cmc>5</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="194" picurl="https://i.imgur.com/CwAbbDk.jpeg" >HOK</set>
+</card>
+<card>
+<name>Hegemol, Champion of the Many</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Knight</type>
+<maintype>Creature</maintype>
+<manacost>WW</manacost>
+<cmc>2</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="195" picurl="https://i.imgur.com/Pur1PzZ.jpeg" >HOK</set>
+</card>
+<card>
+<name>Hornet, Deft Guardian</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Warrior</type>
+<maintype>Creature</maintype>
+<manacost>WW</manacost>
+<cmc>2</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="196" picurl="https://i.imgur.com/PlNufgk.jpeg" >HOK</set>
+</card>
+<card>
+<name>Husk Sentry</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect Knight</type>
+<maintype>Creature</maintype>
+<manacost>1W</manacost>
+<cmc>2</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="197" picurl="https://i.imgur.com/SH4VLQH.jpeg" >HOK</set>
+</card>
+<card>
+<name>Husk Warrior</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect Warrior</type>
+<maintype>Creature</maintype>
+<manacost>W</manacost>
+<cmc>1</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="198" picurl="https://i.imgur.com/hIFNHPX.jpeg" >HOK</set>
+</card>
+<card>
+<name>Kingsmould</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact Creature --- Shade Knight</type>
+<maintype>Artifact Creature</maintype>
+<manacost>1WW</manacost>
+<cmc>3</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="199" picurl="https://i.imgur.com/MxY5bjc.jpeg" >HOK</set>
+</card>
+<card>
+<name>Knightly Courage</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment --- Aura</type>
+<maintype>Enchantment</maintype>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="200" picurl="https://i.imgur.com/CBUKf0f.jpeg" >HOK</set>
+</card>
+<card>
+<name>Lance Sentry</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect Knight</type>
+<maintype>Creature</maintype>
+<manacost>3WW</manacost>
+<cmc>5</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="201" picurl="https://i.imgur.com/AMKEyo8.jpeg" >HOK</set>
+</card>
+<card>
+<name>Lightseed</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Elemental</type>
+<maintype>Creature</maintype>
+<manacost>1W</manacost>
+<cmc>2</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="202" picurl="https://i.imgur.com/wx6vxe8.jpeg" >HOK</set>
+</card>
+<card>
+<name>Maggot</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Shaman</type>
+<maintype>Creature</maintype>
+<manacost>1W</manacost>
+<cmc>2</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="203" picurl="https://i.imgur.com/1aKyGjZ.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mark of Pride</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="204" picurl="https://i.imgur.com/rRex3vJ.jpeg" >HOK</set>
+</card>
+<card>
+<name>Markoth, Lost Champion</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Spirit Warrior</type>
+<maintype>Creature</maintype>
+<manacost>WW</manacost>
+<cmc>2</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="205" picurl="https://i.imgur.com/agEVKkz.jpeg" >HOK</set>
+</card>
+<card>
+<name>Ogrim's Dream</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>1WW</manacost>
+<cmc>3</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="206" picurl="https://i.imgur.com/3V7GecC.jpeg" >HOK</set>
+</card>
+<card>
+<name>Otherwordly Worship</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment</type>
+<maintype>Enchantment</maintype>
+<manacost>2WW</manacost>
+<cmc>4</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="207" picurl="https://i.imgur.com/NWGFj5R.jpeg" >HOK</set>
+</card>
+<card>
+<name>Pass Through Dreams</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>1W</manacost>
+<cmc>2</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="208" picurl="https://i.imgur.com/QV8J5e3.jpeg" >HOK</set>
+</card>
+<card>
+<name>Remember the Fallen</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="209" picurl="https://i.imgur.com/RWJkt5Q.jpeg" >HOK</set>
+</card>
+<card>
+<name>Royal Retainers</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Advisor</type>
+<maintype>Creature</maintype>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="210" picurl="https://i.imgur.com/pMfQ0Qx.jpeg" >HOK</set>
+</card>
+<card>
+<name>Seer, Dream Vizier</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Shaman</type>
+<maintype>Creature</maintype>
+<manacost>3WW</manacost>
+<cmc>5</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="211" picurl="https://i.imgur.com/nyGTavf.jpeg" >HOK</set>
+</card>
+<card>
+<name>Sparkling Fragment</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>1W</manacost>
+<cmc>2</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="212" picurl="https://i.imgur.com/lQZu1j8.jpeg" >HOK</set>
+</card>
+<card>
+<name>Sturdy Fool</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Warrior</type>
+<maintype>Creature</maintype>
+<manacost>2W</manacost>
+<cmc>3</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="213" picurl="https://i.imgur.com/kqD6691.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Dreamers Lay Sleeping</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment --- Saga</type>
+<maintype>Enchantment</maintype>
+<manacost>5WW</manacost>
+<cmc>7</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="214" picurl="https://i.imgur.com/L2bwhLg.png" >HOK</set>
+</card>
+<card>
+<name>The False Knight</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Knight</type>
+<maintype>Creature</maintype>
+<manacost>2WW</manacost>
+<cmc>4</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="215" picurl="https://i.imgur.com/p5cF8S4.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Pale Lurker</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Warrior</type>
+<maintype>Creature</maintype>
+<manacost>W</manacost>
+<cmc>1</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="216" picurl="https://i.imgur.com/D3dNeG9.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Radiance</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect God</type>
+<maintype>Creature</maintype>
+<manacost>8WW</manacost>
+<cmc>10</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="217" picurl="https://i.imgur.com/xINmro9.jpeg" >HOK</set>
+</card>
+<card>
+<name>The White Defender</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Knight</type>
+<maintype>Creature</maintype>
+<manacost>2WW</manacost>
+<cmc>4</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="218" picurl="https://i.imgur.com/irWDP9K.jpeg" >HOK</set>
+</card>
+<card>
+<name>Tip The Scales</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Instant</type>
+<maintype>Instant</maintype>
+<manacost>W</manacost>
+<cmc>1</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="219" picurl="https://i.imgur.com/X2yV63r.jpeg" >HOK</set>
+</card>
+<card>
+<name>Tiso Finds His Purpose</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment --- Saga</type>
+<maintype>Enchantment</maintype>
+<manacost>W</manacost>
+<cmc>1</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="220" picurl="https://i.imgur.com/HbyCaZo.jpeg" >HOK</set>
+</card>
+<card>
+<name>Tiso, Headstrong Vagabond</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Warrior</type>
+<maintype>Creature</maintype>
+<manacost>W</manacost>
+<cmc>1</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="221" picurl="https://i.imgur.com/MBIiV3r.jpeg" >HOK</set>
+</card>
+<card>
+<name>Winged Fool</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Warrior</type>
+<maintype>Creature</maintype>
+<manacost>1W</manacost>
+<cmc>2</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="222" picurl="https://i.imgur.com/pFeKrdk.jpeg" >HOK</set>
+</card>
+<card>
+<name>Winged Sentry</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Zombie Insect Knight</type>
+<maintype>Creature</maintype>
+<manacost>3W</manacost>
+<cmc>4</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="223" picurl="https://i.imgur.com/ePsJEEj.jpeg" >HOK</set>
+</card>
+<card>
+<name>Wingmould</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Shade Construct</type>
+<maintype>Creature</maintype>
+<manacost>2WW</manacost>
+<cmc>4</cmc>
+<colors>W</colors>
+<coloridentity>W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="224" picurl="https://i.imgur.com/6KxnqNo.jpeg" >HOK</set>
+</card>
+<card>
+<name>Bluggsac</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact Creature --- Clue Food Treasure</type>
+<maintype>Artifact Creature</maintype>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="225" picurl="https://i.imgur.com/F4fnWeG.jpeg" >HOK</set>
+</card>
+<card>
+<name>Channeled Nail</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="226" picurl="https://i.imgur.com/la7um4b.jpeg" >HOK</set>
+</card>
+<card>
+<name>Coiled Nail</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>4</manacost>
+<cmc>4</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="227" picurl="https://i.imgur.com/GzyMW3h.jpeg" >HOK</set>
+</card>
+<card>
+<name>Crystal Hierolith</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Clue</type>
+<maintype>Artifact</maintype>
+<manacost>3</manacost>
+<cmc>3</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="228" picurl="https://i.imgur.com/XnXiN6I.jpeg" >HOK</set>
+</card>
+<card>
+<name>Dashmaster</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Clue</type>
+<maintype>Artifact</maintype>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="229" picurl="https://i.imgur.com/50B8GyS.jpeg" >HOK</set>
+</card>
+<card>
+<name>Dream Nail</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>1</manacost>
+<cmc>1</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="230" picurl="https://i.imgur.com/8FyR44a.jpeg" >HOK</set>
+</card>
+<card>
+<name>Gemstone Pickaxe</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>1</manacost>
+<cmc>1</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="231" picurl="https://i.imgur.com/i3BELWT.jpeg" >HOK</set>
+</card>
+<card>
+<name>Greatnail</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>3</manacost>
+<cmc>3</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="232" picurl="https://i.imgur.com/JXydnEe.jpeg" >HOK</set>
+</card>
+<card>
+<name>Grub Jar</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact</type>
+<maintype>Artifact</maintype>
+<manacost>1</manacost>
+<cmc>1</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="233" picurl="https://i.imgur.com/EVBElkl.jpeg" >HOK</set>
+</card>
+<card>
+<name>Jinn, Of Steel Soul</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Artifact Creature --- Construct</type>
+<maintype>Artifact Creature</maintype>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="234" picurl="https://i.imgur.com/epCGmon.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mace Bug</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact Creature --- Equipment Insect</type>
+<maintype>Artifact Creature</maintype>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="235" picurl="https://i.imgur.com/9aRAATL.jpeg" >HOK</set>
+</card>
+<card>
+<name>Map Emporium</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Land</type>
+<maintype>Land</maintype>
+<manacost></manacost>
+<cmc>0</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="236" picurl="https://i.imgur.com/pr2gDwX.jpeg" >HOK</set>
+</card>
+<card>
+<name>Old Nail</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>1</manacost>
+<cmc>1</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="237" picurl="https://i.imgur.com/4Zk0U7f.jpeg" >HOK</set>
+</card>
+<card>
+<name>Ore of Geo</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact</type>
+<maintype>Artifact</maintype>
+<manacost>3</manacost>
+<cmc>3</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="238" picurl="https://i.imgur.com/Us3hREL.jpeg" >HOK</set>
+</card>
+<card>
+<name>Pure Nail</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="239" picurl="https://i.imgur.com/kM3ZzHw.jpeg" >HOK</set>
+</card>
+<card>
+<name>Soul Catcher</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>3</manacost>
+<cmc>3</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="240" picurl="https://i.imgur.com/u4o4KvH.jpeg" >HOK</set>
+</card>
+<card>
+<name>Soul Totem</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact</type>
+<maintype>Artifact</maintype>
+<manacost>1</manacost>
+<cmc>1</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="241" picurl="https://i.imgur.com/KK8oI9U.jpeg" >HOK</set>
+</card>
+<card>
+<name>Watcher's Spire</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact</type>
+<maintype>Artifact</maintype>
+<manacost>2</manacost>
+<cmc>2</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="242" picurl="https://i.imgur.com/R7HGgRN.jpeg" >HOK</set>
+</card>
+<card>
+<name>Wayward Compass</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact --- Equipment</type>
+<maintype>Artifact</maintype>
+<manacost>1</manacost>
+<cmc>1</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="common" num="243" picurl="https://i.imgur.com/SeDv22F.jpeg" >HOK</set>
+</card>
+<card>
+<name>Ze'mer, Faded Mourner</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>5</manacost>
+<cmc>5</cmc>
+<colors></colors>
+<coloridentity></coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="244" picurl="https://i.imgur.com/PS60gXf.jpeg" >HOK</set>
+</card>
+<card>
+<name>Brothers Oro and Mato</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Warrior</type>
+<maintype>Creature</maintype>
+<manacost>2RW</manacost>
+<cmc>4</cmc>
+<colors>RW</colors>
+<coloridentity>RW</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="245" picurl="https://i.imgur.com/7LPLTat.jpeg" >HOK</set>
+</card>
+<card>
+<name>Chared Lumaflies</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Artifact Creature --- Elemental Insect</type>
+<maintype>Artifact Creature</maintype>
+<manacost>2UR</manacost>
+<cmc>4</cmc>
+<colors>UR</colors>
+<coloridentity>UR</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="246" picurl="https://i.imgur.com/NVgJ8Hj.jpeg" >HOK</set>
+</card>
+<card>
+<name>Crystal Procession</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment</type>
+<maintype>Enchantment</maintype>
+<manacost>1WU</manacost>
+<cmc>3</cmc>
+<colors>WU</colors>
+<coloridentity>WU</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="247" picurl="https://i.imgur.com/zUDo2hv.jpeg" >HOK</set>
+</card>
+<card>
+<name>Death Loodle</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>BG</manacost>
+<cmc>2</cmc>
+<colors>BG</colors>
+<coloridentity>BG</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="248" picurl="https://i.imgur.com/gPJsPaO.jpeg" >HOK</set>
+</card>
+<card>
+<name>Duelist's Sorrow</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment</type>
+<maintype>Enchantment</maintype>
+<manacost>WB</manacost>
+<cmc>2</cmc>
+<colors>WB</colors>
+<coloridentity>WB</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="249" picurl="https://i.imgur.com/zSWmBJq.jpeg" >HOK</set>
+</card>
+<card>
+<name>Fluke Hermit, The Observer</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Scout</type>
+<maintype>Creature</maintype>
+<manacost>1UG</manacost>
+<cmc>3</cmc>
+<colors>UG</colors>
+<coloridentity>UG</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="250" picurl="https://i.imgur.com/5eVoHOW.jpeg" >HOK</set>
+</card>
+<card>
+<name>Fungal Eminence</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment</type>
+<maintype>Enchantment</maintype>
+<manacost>3RG</manacost>
+<cmc>5</cmc>
+<colors>RG</colors>
+<coloridentity>RG</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="251" picurl="https://i.imgur.com/MpVy7f2.jpeg" >HOK</set>
+</card>
+<card>
+<name>God Tamer, Coliseum Dignitary</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Knight</type>
+<maintype>Creature</maintype>
+<manacost>5WR</manacost>
+<cmc>7</cmc>
+<colors>WR</colors>
+<coloridentity>WR</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="252" picurl="https://i.imgur.com/KkxWDch.jpeg" >HOK</set>
+</card>
+<card>
+<name>Great Husk Sentry</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Zombie Insect Knight</type>
+<maintype>Creature</maintype>
+<manacost>5WU</manacost>
+<cmc>7</cmc>
+<colors>WU</colors>
+<coloridentity>WU</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="253" picurl="https://i.imgur.com/6rn6MmF.jpeg" >HOK</set>
+</card>
+<card>
+<name>Grimmkin Nightmare</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Spirit Shaman</type>
+<maintype>Creature</maintype>
+<manacost>1BR</manacost>
+<cmc>3</cmc>
+<colors>BR</colors>
+<coloridentity>BR</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="254" picurl="https://i.imgur.com/GTPrauI.jpeg" >HOK</set>
+</card>
+<card>
+<name>Hallownest's Nailsmith</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Artificer</type>
+<maintype>Creature</maintype>
+<manacost>WR</manacost>
+<cmc>2</cmc>
+<colors>WR</colors>
+<coloridentity>WR</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="255" picurl="https://i.imgur.com/Au5t17Y.jpeg" >HOK</set>
+</card>
+<card>
+<name>Hive Guardian</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect Berserker</type>
+<maintype>Creature</maintype>
+<manacost>3RG</manacost>
+<cmc>5</cmc>
+<colors>RG</colors>
+<coloridentity>RG</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="256" picurl="https://i.imgur.com/UzrIEBx.jpeg" >HOK</set>
+</card>
+<card>
+<name>Hiveling</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>1G/W</manacost>
+<cmc>4</cmc>
+<colors>G/W</colors>
+<coloridentity>G/W</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="257" picurl="https://i.imgur.com/Mje3vEi.jpeg" >HOK</set>
+</card>
+<card>
+<name>Lemm, Relic Connoisseur</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Artificer</type>
+<maintype>Creature</maintype>
+<manacost>2UR</manacost>
+<cmc>4</cmc>
+<colors>UR</colors>
+<coloridentity>UR</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="258" picurl="https://i.imgur.com/qlI87l4.jpeg" >HOK</set>
+</card>
+<card>
+<name>Lurien, The Watcher</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Enchantment Creature --- Dreamer</type>
+<maintype>Enchantment Creature</maintype>
+<manacost>1UB</manacost>
+<cmc>3</cmc>
+<colors>UB</colors>
+<coloridentity>UB</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="259" picurl="https://i.imgur.com/mrW82Gt.jpeg" >HOK</set>
+</card>
+<card>
+<name>Mantis Petra</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>1UG</manacost>
+<cmc>3</cmc>
+<colors>UG</colors>
+<coloridentity>UG</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="260" picurl="https://i.imgur.com/9e2YqNI.jpeg" >HOK</set>
+</card>
+<card>
+<name>Marmu, Eager Companion</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Spirit</type>
+<maintype>Creature</maintype>
+<manacost>1BG</manacost>
+<cmc>3</cmc>
+<colors>BG</colors>
+<coloridentity>BG</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="261" picurl="https://i.imgur.com/9e2YqNI.jpeg" >HOK</set>
+</card>
+<card>
+<name>No Eyes</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Horror Spirit</type>
+<maintype>Creature</maintype>
+<manacost>2UB</manacost>
+<cmc>4</cmc>
+<colors>UB</colors>
+<coloridentity>UB</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="262" picurl="https://i.imgur.com/rkdQ1Fm.jpeg" >HOK</set>
+</card>
+<card>
+<name>Primal Aspid</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Insect</type>
+<maintype>Creature</maintype>
+<manacost>1WR</manacost>
+<cmc>3</cmc>
+<colors>WR</colors>
+<coloridentity>WR</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="263" picurl="https://i.imgur.com/GfKHHY9.jpeg" >HOK</set>
+</card>
+<card>
+<name>Pure Vessel</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Shade Knight</type>
+<maintype>Creature</maintype>
+<manacost>3WB</manacost>
+<cmc>5</cmc>
+<colors>WB</colors>
+<coloridentity>WB</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="264" picurl="https://i.imgur.com/KiQ4nzr.jpeg" >HOK</set>
+</card>
+<card>
+<name>Scavage the Topsoil</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Sorcery</type>
+<maintype>Sorcery</maintype>
+<manacost>BG</manacost>
+<cmc>2</cmc>
+<colors>BG</colors>
+<coloridentity>BG</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="265" picurl="https://i.imgur.com/s9qGo8g.jpeg" >HOK</set>
+</card>
+<card>
+<name>Showtime Crescendo</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment</type>
+<maintype>Enchantment</maintype>
+<manacost>BR</manacost>
+<cmc>2</cmc>
+<colors>BR</colors>
+<coloridentity>BR</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="266" picurl="https://i.imgur.com/Tr0w0hi.jpeg" >HOK</set>
+</card>
+<card>
+<name>Spectacular Stash</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment</type>
+<maintype>Enchantment</maintype>
+<manacost>1BR</manacost>
+<cmc>3</cmc>
+<colors>BR</colors>
+<coloridentity>BR</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="267" picurl="https://i.imgur.com/K5xkS3O.jpeg" >HOK</set>
+</card>
+<card>
+<name>Sporg</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Creature --- Fungus</type>
+<maintype>Creature</maintype>
+<manacost>2RG</manacost>
+<cmc>4</cmc>
+<colors>RG</colors>
+<coloridentity>RG</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="268" picurl="https://i.imgur.com/X2w3STT.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Crystal Guardian</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Artifact Creature --- Insect</type>
+<maintype>Artifact Creature</maintype>
+<manacost>1UR</manacost>
+<cmc>3</cmc>
+<colors>UR</colors>
+<coloridentity>UR</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="269" picurl="https://i.imgur.com/Zlb6XqW.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Failed Champion</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Knight</type>
+<maintype>Creature</maintype>
+<manacost>8WB</manacost>
+<cmc>10</cmc>
+<colors>WB</colors>
+<coloridentity>WB</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="270" picurl="https://i.imgur.com/b9HhBhp.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Hive Knight</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Knight</type>
+<maintype>Creature</maintype>
+<manacost>2WG</manacost>
+<cmc>4</cmc>
+<colors>WG</colors>
+<coloridentity>WG</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="271" picurl="https://i.imgur.com/VwQCAi8.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Pale King</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Planeswalker --- Pale King</type>
+<maintype>Planeswalker</maintype>
+<manacost>1WUB</manacost>
+<cmc>4</cmc>
+<colors>WUB</colors>
+<coloridentity>WUB</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="272" picurl="https://i.imgur.com/2CYU6na.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Vessel, Hallownest's Savior</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Shade Knight</type>
+<maintype>Creature</maintype>
+<manacost>W/B</manacost>
+<cmc>3</cmc>
+<colors>W/B</colors>
+<coloridentity>W/B</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="273" picurl="https://i.imgur.com/bEkDDFJ.jpeg" >HOK</set>
+</card>
+<card>
+<name>The Vessel's Lost Kin</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Shade Spirit</type>
+<maintype>Creature</maintype>
+<manacost>3WB</manacost>
+<cmc>5</cmc>
+<colors>WB</colors>
+<coloridentity>WB</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="274" picurl="https://i.imgur.com/ij9knH2.jpeg" >HOK</set>
+</card>
+<card>
+<name>The White Lady</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Planeswalker --- White Lady</type>
+<maintype>Planeswalker</maintype>
+<manacost>4WG</manacost>
+<cmc>6</cmc>
+<colors>WG</colors>
+<coloridentity>WG</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="275" picurl="https://i.imgur.com/muTPO37.jpeg" >HOK</set>
+</card>
+<card>
+<name>Troupe Master Grimm</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Shaman</type>
+<maintype>Creature</maintype>
+<manacost>1BR</manacost>
+<cmc>3</cmc>
+<colors>BR</colors>
+<coloridentity>BR</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="rare" num="276" picurl="https://i.imgur.com/fdQoi4P.jpeg" >HOK</set>
+</card>
+<card>
+<name>Unfettered Flourishing</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Enchantment</type>
+<maintype>Enchantment</maintype>
+<manacost>2UG</manacost>
+<cmc>4</cmc>
+<colors>UG</colors>
+<coloridentity>UG</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="277" picurl="https://i.imgur.com/30IWJVO.jpeg" >HOK</set>
+</card>
+<card>
+<name>Unn, God of Thriving</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Slug God</type>
+<maintype>Creature</maintype>
+<manacost>4GU</manacost>
+<cmc>6</cmc>
+<colors>GU</colors>
+<coloridentity>GU</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="278" picurl="https://i.imgur.com/W2vSLRl.jpeg" >HOK</set>
+</card>
+<card>
+<name>Uumuu, Teacher's Guardian</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Jellyfish</type>
+<maintype>Creature</maintype>
+<manacost>2UR</manacost>
+<cmc>4</cmc>
+<colors>UR</colors>
+<coloridentity>UR</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="279" picurl="https://i.imgur.com/ZJWiJgO.jpeg" >HOK</set>
+</card>
+<card>
+<name>Watcher Knight</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Zombie Insect Knight</type>
+<maintype>Creature</maintype>
+<manacost>WU</manacost>
+<cmc>2</cmc>
+<colors>WU</colors>
+<coloridentity>WU</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="mythic" num="280" picurl="https://i.imgur.com/5u5WZHV.jpeg" >HOK</set>
+</card>
+<card>
+<name>Xero, Forgotten Traitor</name>
+<text> NA </text>
+<prop>
+<layout>normal</layout>
+<side>front</side>
+<type>Legendary Creature --- Insect Spirit Knight</type>
+<maintype>Creature</maintype>
+<manacost>RW</manacost>
+<cmc>2</cmc>
+<colors>RW</colors>
+<coloridentity>RW</coloridentity>
+<pt> NA </pt>
+<loyalty> NA </loyalty>
+<format-standard>legal</format-standard>
+<format-commander>legal</format-commander>
+<format-modern>legal</format-modern>
+<format-pauper>legal</format-pauper>
+</prop>
+<set rarity="uncommon" num="281" picurl="https://i.imgur.com/nIbFPT1.jpeg" >HOK</set>
+</card>
+</cards>
+</cockatrice_carddatabase>

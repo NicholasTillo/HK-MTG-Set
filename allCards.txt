@@ -2896,7 +2896,7 @@
 6 Zealous Artifice
 
 #Green
-6 1 1000 Stings
+6 1000 Stings
 6 Ambloom
 6 Fool Eater
 6 Fungal Mists
